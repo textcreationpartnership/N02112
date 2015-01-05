@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002509_0000_0FDB4481CD3374A0"/>
-            <pb facs="tcp:002509_0001_0FDB65F8ECCA1468" rendition="simple:additions"/>
+            <pb facs="unknown:002509_0000_0FDB4481CD3374A0"/>
+            <pb facs="unknown:002509_0001_0FDB65F8ECCA1468"
+                rendition="simple:additions"/>
             <p>AN ESSAY ON Scripture-Prophecy, Wherein it is Endeavoured TO Explain the Three Periods Contain'd in the XII Chapter of the Prophet <hi>DANIEL.</hi>
             </p>
             <p>With ſome Arguments to make it Probable, That the <hi>Firſt</hi> of the <hi>P<gap reason="illegible" resp="#PDCC" extent="4 letters">
@@ -134,7 +135,7 @@
             <p>Printed in the Year MDCCXXIV</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:002509_0002_0FDB65FB5C8ADAB0"/>
+            <pb facs="unknown:002509_0002_0FDB65FB5C8ADAB0"/>
             <head>The CONTENTS.</head>
             <list>
                <item>THe Introduction, <hi>Page 1.</hi>
@@ -185,11 +186,11 @@
       </front>
       <body>
          <div type="introduction">
-            <pb n="1" facs="tcp:002509_0003_0FDB65FCE46F5CB0"/>
+            <pb n="1" facs="unknown:002509_0003_0FDB65FCE46F5CB0"/>
             <head>AN ESSAY, ON Scripture-Prophecy Wherein it is Endeavoured To Explain the <hi>Three Periods</hi> contained in the 12th Chapter of the Prophet <hi>Daniel,</hi> with ſome Arguments to make it Probable, that the <hi>firſt</hi> of theſe <hi>Periods</hi> did Expire in 1715.</head>
             <head type="sub">Introduction.</head>
             <p>IT has always been the Policy of the Teachers of Falſe Religions, to keep their Principles from being nicely Examined into by the People, and it ſeems, for the ſame Reaſon, a Mark of a True One, when it is ſubmitted to the
-<pb n="2" facs="tcp:002509_0004_0FDB660202BADE28"/>Enquiry of Mankind, and when they are invited to be their own Judges, by thoſe who inſtruct them: The Accompliſhment of Prophecies is of this Kind, it is an Appeal to the World, and to this effect we find it inſiſted on by the Prophet <hi>Iſaiah,</hi> in the following Paſſages, as a Convin<g ref="char:EOLhyphen"/>cing and Diſtinguiſhing Proof of the True God, in Oppoſition to Idols.</p>
+<pb n="2" facs="unknown:002509_0004_0FDB660202BADE28"/>Enquiry of Mankind, and when they are invited to be their own Judges, by thoſe who inſtruct them: The Accompliſhment of Prophecies is of this Kind, it is an Appeal to the World, and to this effect we find it inſiſted on by the Prophet <hi>Iſaiah,</hi> in the following Paſſages, as a Convin<g ref="char:EOLhyphen"/>cing and Diſtinguiſhing Proof of the True God, in Oppoſition to Idols.</p>
             <p>
                <q>I am the Lord,<note place="margin">Iſaiah xlii. verſ. 8.</note> that is my Name, and my Glory will I not give to another, neither my Praiſe to graven Images.</q>
             </p>
@@ -208,7 +209,7 @@
                   </gap>hem, and know the latter End of them, or declare us Things for to come.</q>
             </p>
             <p>
-               <pb n="3" facs="tcp:002509_0005_0FDB660536347AE8"/>
+               <pb n="3" facs="unknown:002509_0005_0FDB660536347AE8"/>
                <q>Shew the Things that are to come hereafter,<note place="margin">23.</note> that we may know that ye are Gods; yea, do Good or do Evil, that we may be Diſmayed, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hold it together.</q>
@@ -228,7 +229,7 @@
             </p>
             <p>
                <q>I have declared the former Things from the beginning,<note place="margin">ch. xlviii, 3.</note> and they went forth out of my
-<pb n="4" facs="tcp:002509_0006_0FDB6606A94B26D8"/>Mouth, and I ſhewed them, I did then ſuddainly, and they came to paſs.</q>
+<pb n="4" facs="unknown:002509_0006_0FDB6606A94B26D8"/>Mouth, and I ſhewed them, I did then ſuddainly, and they came to paſs.</q>
             </p>
             <p>
                <q>I have even from the beginning declared it to thee,<note place="margin">v. 5.</note> before it came paſs I ſhewed it thee, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -244,7 +245,7 @@
             <p>Thus does the Prophet <hi>Iſaiah</hi> employ the the ſtrongeſt Terms to Recommend the Study of <hi>Prophecy,</hi> and the Obſervation of the Events which confirm the Truth of it; and St. <hi>Peter</hi> applies the Old Prophecies to the Times after Chriſt's Birth, in theſe words,</p>
             <p>
                <q>Of which Salvation the Prophets have en<g ref="char:EOLhyphen"/>quired
-<pb n="5" facs="tcp:002509_0007_0FDB660A80C65D40"/>and ſearched diligently,<note place="margin">1 Pet. i. 10.</note> who prophecy'd of the Grace that ſhould come unto you.</q>
+<pb n="5" facs="unknown:002509_0007_0FDB660A80C65D40"/>and ſearched diligently,<note place="margin">1 Pet. i. 10.</note> who prophecy'd of the Grace that ſhould come unto you.</q>
             </p>
             <p>
                <q>Searching what,<note place="margin">11.</note> or what manner of Time the Spirit of Chriſt, which was in them, did ſignifie, when it teſtified before-hand the Suffer<g ref="char:EOLhyphen"/>ings of Chriſt, and the Glory that ſhould follow.</q>
@@ -256,7 +257,7 @@
             <p>
                <q>
                   <hi>The Revelation of Jeſus Chriſt,</hi> which God gave unto him,<note place="margin">Rev. i. 1.</note> to ſhew unto his Servants the
-<pb n="6" facs="tcp:002509_0008_0FDB660C0230D250"/>Things which muſt ſhortly come to paſs; and he ſent and ſignified it by his Angel unto his Servant <hi>John.</hi>
+<pb n="6" facs="unknown:002509_0008_0FDB660C0230D250"/>Things which muſt ſhortly come to paſs; and he ſent and ſignified it by his Angel unto his Servant <hi>John.</hi>
                </q>
             </p>
             <p>
@@ -272,7 +273,7 @@
             <p>This is, in all appearance, the ſame Book, in which <hi>Daniel</hi> is ordered <hi>To shut up the Words,</hi> and <hi>Seal the Book,</hi>
                <note place="margin">Dan. xii. 4.</note> 
                <hi>even to the Time of the End,</hi> when it was to be further Explained by St. <hi>John,</hi> and Unſealed, in order of Time, as the Events
-<pb n="7" facs="tcp:002509_0009_0FDB6610E5742668"/>were to happen, which are the only compleat Interpreters of Prophecy, According to St. <hi>Peter</hi>'s Obſervation,<note place="margin">2 Pet. i. 20.</note> 
+<pb n="7" facs="unknown:002509_0009_0FDB6610E5742668"/>were to happen, which are the only compleat Interpreters of Prophecy, According to St. <hi>Peter</hi>'s Obſervation,<note place="margin">2 Pet. i. 20.</note> 
                <hi>That no Prophecy of the Scripture is its own Interpreter</hi> (as it ought to be rendeed, and not as in the <hi>English</hi> Tranſlation, <hi>Of private Interpretation.</hi>)</p>
             <p>If therefore that <hi>Time of the End</hi> is not a<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -283,13 +284,13 @@
                   <note place="margin">10.</note> 
                   <hi>and Tryed, but the Wicked shall do Wickedly, and none of the Wicked shall Underſtand, but the Wiſe shall Underſtand:</hi>
                </q> So that as cer<g ref="char:EOLhyphen"/>tainly as the Prophecy ought to be obſcure till that <hi>Time,</hi> it ought to be plain after it is come, to thoſe who are meant by the <hi>Wiſe.</hi> And if it can be ſhewn what thoſe Events are which the Prophecy referrs to, and that they are already happened, in order as they are deſcribed by <hi>Daniel,</hi> and Explained by St. <hi>John:</hi> Then it muſt be confeſſed, that the <hi>Time</hi> is come, and that
-<pb n="8" facs="tcp:002509_0010_0FDB6611CE27CB68"/>
+<pb n="8" facs="unknown:002509_0010_0FDB6611CE27CB68"/>
                <hi>thoſe who will not underſtand are Wicked,</hi> that is, engaged in intereſt to Oppoſe the Truth, and will deſerve to have that applyed to them which our Saviour, on a like occaſion, ſays of the Pha<g ref="char:EOLhyphen"/>riſees,<note place="margin">Mat. xvi. 3.</note> 
                <hi>O ye Hypocrites, ye can diſcern the face of the Sky, but can ye not diſcern the Signs of the Times.</hi>
             </p>
             <p>By which charge of <hi>Hypocriſie,</hi> our Saviour did not mean, that the Phariſees knew him, and yet denyed him againſt their Conſcience; for he obſerves, That they <hi>did not diſcern the Times,</hi> that is, did not know him, and yet this was an <hi>Hypocriſie,</hi> tho' they were not ſenſible of it; for their Power and Advantage blinded them ſo, that they deceived themſelves, and oppoſed his Doctrine out of <hi>Hypocriſie</hi> or guilty Prejudice.</p>
             <p>The Application of this to <hi>Daniel</hi>'s Diſtinction, will not be difficult,<note place="margin">2 Tim iii. v. 15.</note> when it comes to be ſhewn, that it relates to a <hi>Time</hi> when the World was to be divided into Two great Contending Parties, One of which would adhere to the <hi>Scriptures,</hi> and therefore are called <hi>Wiſe unto Salvation;</hi> and the other Party would adhere to that Cauſe
-<pb n="9" facs="tcp:002509_0011_0FDB6615DC125B08"/>which is ſupported by human Policy,<note place="margin">Jude 16.</note> 
+<pb n="9" facs="unknown:002509_0011_0FDB6615DC125B08"/>which is ſupported by human Policy,<note place="margin">Jude 16.</note> 
                <hi>holding Mens Perſons in Admiration becauſe of Advantage;</hi> and is therefore called in <hi>Zachariah</hi> by the diſtinguiſh<g ref="char:EOLhyphen"/>ing name of <hi>Wickedneſs,</hi>
                <note place="margin">Zach v. 8.</note> that had <hi>a Houſe,<note place="margin">11.</note> built it in the Land of Shiner,</hi>
                <note place="margin">Dan I. 2. Rev. XII 6.14. xvii. 5.</note> which <hi>Daniel</hi> informs us was at <hi>Babylon,</hi> and which agrees with the <hi>Woman in the Wilderneſs,</hi> and <hi>the Babylon</hi> in St. <hi>John.</hi>
@@ -300,7 +301,7 @@
                <q>Bleſſed is he that keepeth the Sayings of the Prophecy of this Book.</q>
             </p>
             <p>
-               <pb n="10" facs="tcp:002509_0012_0FDB66170D503018"/>
+               <pb n="10" facs="unknown:002509_0012_0FDB66170D503018"/>
 And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
             <p>
                <q>For I teſtify unto every Man that heareth the Words of the Prophecy of this Book,<note place="margin">18.</note> If any Man ſhall add unto theſe Things, God ſhall add unto him the Plagues that are written in this Book.</q>
@@ -312,7 +313,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
             </p>
          </div>
          <div type="essay">
-            <pb n="11" facs="tcp:002509_0013_0FDB661BAC258768"/>
+            <pb n="11" facs="unknown:002509_0013_0FDB661BAC258768"/>
             <head>AN ESSAY On the <hi>Three Periods</hi> in the 12th Chapter of the Prophet <hi>Daniel,</hi> contained in theſe Words,</head>
             <p>
                <q>AND I heard the Man Cloathed in Linnen which was upon the Waters of the River,<note place="margin">Dan XII 7.8.9.10.11.12.13.</note> when he held up his Right Hand and his Left Hand unto Heaven, and Sware by Him that liveth forever, That it ſhall be for a <hi>Time, Times and a half;</hi> and when <hi>He</hi> ſhall have accompliſhed to ſcatter the Power of the Holy People, all theſe things ſhall be finiſhed.</q>
@@ -323,7 +324,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
             <p>
                <q>And he ſaid, Go thy way <hi>Daniel,</hi>
                   <note place="margin">9.</note> for the Words are Cloſed up, and Scaled till the Time of the End, many ſhall be Purifyed and made
-<pb n="12" facs="tcp:002509_0014_0FDB661DCF00E588"/>White,<note place="margin">10.</note> and Tryed, but the <hi>Wicked</hi> ſhall do Wickedly, and none of the <hi>Wicked</hi> ſhall Underſtand, but the <hi>Wiſe</hi> ſhall Underſtand.</q>
+<pb n="12" facs="unknown:002509_0014_0FDB661DCF00E588"/>White,<note place="margin">10.</note> and Tryed, but the <hi>Wicked</hi> ſhall do Wickedly, and none of the <hi>Wicked</hi> ſhall Underſtand, but the <hi>Wiſe</hi> ſhall Underſtand.</q>
             </p>
             <p>
                <q>And from the Time that the <hi>Daily</hi> Sacrifice ſhall be taken away,<note place="margin">11.</note> and the <hi>Abomination</hi> that maketh Deſolate, ſet up, there ſhall be <hi>a Thou<g ref="char:EOLhyphen"/>ſand Two Hundred and Ninety</hi> Days.</q>
@@ -339,7 +340,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
                <head>
                   <hi>SECT. I.</hi> Of the Perſons and their Office.</head>
                <p>THe three Periods, are <hi>Time, Times and a half, One Thouſand Two Hundred &amp; Ninty Days,</hi> and <hi>One Thouſand Three Hundred and Thirty Five Days.</hi> And that their Meaning and Connection
-<pb n="13" facs="tcp:002509_0015_0FDB661F9A5ECB20"/>with one another may appear, it will be neceſſary to take the whole Paſſage which <hi>I</hi> have cited, in the Order in which it lies, and explain every Expreſſion in it particulary, as <hi>I</hi> go along.</p>
+<pb n="13" facs="unknown:002509_0015_0FDB661F9A5ECB20"/>with one another may appear, it will be neceſſary to take the whole Paſſage which <hi>I</hi> have cited, in the Order in which it lies, and explain every Expreſſion in it particulary, as <hi>I</hi> go along.</p>
                <p>"And <hi>I</hi> heard the <hi>Man Cloathed in Linnen,</hi>
                   <note place="margin">Dan. xii 7.</note> "which was upon the Waters of the River.</p>
                <p>This <hi>Man Cloathed in Linnen,</hi> is amply deſcri<g ref="char:EOLhyphen"/>bed in the beginning of this Viſion, which com<g ref="char:EOLhyphen"/>prehends all the three laſt Chapters of <hi>Daniel,</hi>
@@ -355,7 +356,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
                   <q>His Body alſo was like the <hi>Beryl,</hi> and his Face as the Appearance of Lightning,<note place="margin">6.</note> and his Eyes as Lamps of Fire, and is Arms and his Feet like, in Colour, to poliſhed Braſs, and the Voice of his Words like the Voice of a Multitude.</q>
                </p>
                <p>This Deſcription is, evidently, of the ſame Perſon who is Repreſented in St. <hi>John,</hi>— <q>like
-<pb n="14" facs="tcp:002509_0016_0FDB6623420F7F10"/>to the Son of Man,<note place="margin">Rev. I. 13.</note> Cloathed with a Garment down to the Foot, and girt about the Paps with a Golden Girdle.</q>
+<pb n="14" facs="unknown:002509_0016_0FDB6623420F7F10"/>to the Son of Man,<note place="margin">Rev. I. 13.</note> Cloathed with a Garment down to the Foot, and girt about the Paps with a Golden Girdle.</q>
                </p>
                <p>
                   <q>His Head and his Hairs were White like Wool,<note place="margin">14.</note> as White as Snow, and his Eyes were as a Flame of Fire;</q>
@@ -375,7 +376,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
                   <hi>cloathed with a Cloud, and a Rain-bow was upon his Head, and his Face was, as it were, the Sun, and his Feet as Pillars of Fire.</hi>
                </p>
                <p>And the Account that <hi>Daniel</hi> gives, That he
-<pb n="15" facs="tcp:002509_0017_0FDB670E9AB111A0"/>—<hi>alone ſaw the Viſion;</hi>
+<pb n="15" facs="unknown:002509_0017_0FDB670E9AB111A0"/>—<hi>alone ſaw the Viſion;</hi>
                   <note place="margin">Dan. X. 7.</note> 
                   <hi>for the Men that were with him ſaw not the Viſion, but a great Quaking fell upon them, ſo that they fled to hide themſelves,</hi> is a Circumſtance that Confirms this Opinion, That the <hi>Perſon</hi> is the <hi>ſame</hi> who appeared to St. <hi>Paul,</hi>
                   <note place="margin">Acts. IX. 7.</note> when <hi>the Men who journeyed with him ſtood Speechleſs, hearing a Voice, but ſeeing no Man;</hi> which Voice ſaid, <hi>I am Jeſus whom thou Perſecuteſt.</hi>
@@ -394,7 +395,7 @@ And he enforces it with theſe Solemn Threat<g ref="char:EOLhyphen"/>nings.</p>
                   <hi>and upon the Palms of his Hands.</hi>
                </p>
                <p>
-                  <pb n="16" facs="tcp:002509_0018_0FDB662495DED8B0"/>
+                  <pb n="16" facs="unknown:002509_0018_0FDB662495DED8B0"/>
 And ſaid unto him,<note place="margin">11.</note> 
                   <hi>O Daniel<g ref="char:punc">▪</g> a Man greatly beloved, Underſtand the Words that I ſpeak unto thee, and ſtand upright, for unto thee am I now ſent</hi>—.</p>
                <p>By which Words this laſt may be diſcovered to be <hi>Gabriel,</hi> that was, in a former Viſion, ordered to make him <hi>Underſtand the Viſion;</hi> and it is put out of all doubt, that it is he, by the Continuance of his Diſcourſe in the Viſion of the third of <hi>Cyrus,</hi> where he acknowledges <hi>That</hi> Michael <hi>one of the chief Princes came to help</hi> him:<note place="margin">Dan. X. 13.</note> and that <hi>there was none that holdeth with him in theſe things but Michael your Prince.</hi>
@@ -410,7 +411,7 @@ And ſaid unto him,<note place="margin">11.</note>
                   <hi>O</hi> Daniel! <hi>I am now come forth to give thee Skill and Underſtanding.</hi>
                </p>
                <p>
-                  <pb n="17" facs="tcp:002509_0019_0FDB6627E7173F78"/>
+                  <pb n="17" facs="unknown:002509_0019_0FDB6627E7173F78"/>
 Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only a <hi>Prayer,</hi> and all the <hi>Viſion</hi> comes after: By which it may be under<g ref="char:EOLhyphen"/>ſtood, that <hi>Daniel</hi> means, That <hi>Gabriel</hi> was the Perſon of whom he ſays in the Viſion of the firſt of <hi>Belshazzar,</hi>
                   <note place="margin">Dan. v<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -428,7 +429,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                      </gap> his Angel to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>w unto his Servants the Things which
-<pb n="18" facs="tcp:002509_0020_0FDB6629CB99FC68"/>moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="18" facs="unknown:002509_0020_0FDB6629CB99FC68"/>moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>herily be done,</hi>
                   <note place="margin">rev. xxii 6,</note> And afterwards, <hi>I Jeſus have ſent min<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -447,14 +448,14 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                </p>
                <p>
                   <q>And One ſaid to the <hi>Man cloathed in Linnen,</hi> which was upon the Waters of the River,<note place="margin">6.</note>
-                     <pb n="19" facs="tcp:002509_0021_0FDB662B6EC509A8"/>How long ſhall it be to the End of theſe VVonders?</q>
+                     <pb n="19" facs="unknown:002509_0021_0FDB662B6EC509A8"/>How long ſhall it be to the End of theſe VVonders?</q>
                </p>
                <p>Where it muſt be Obſerved, That the word Tranſlated <hi>Other,</hi> in Verſe 5. may ſignifie like<g ref="char:EOLhyphen"/>wiſe <hi>the Laſt,</hi> and is here to be taken in that ſence, meaning <hi>Michael,</hi>
                   <note place="margin">chap. 12.1.</note> (who was mentioned juſt before) and <hi>Gabriel,</hi> who had been ſpeaking to <hi>Daniel</hi> all the while, from the end of the X Chapter till the very preceeding Verſe. And when he had done ſpeaking, <hi>Daniel</hi> is Repre<g ref="char:EOLhyphen"/>ſented as coming out of a profound Attention, which the Angel's Silence put an end to; Then, as was natural, he <hi>Looked up, and behold,</hi>
                   <note place="margin">chap 12.5.</note> 
                   <hi>there ſtood theſe laſt Two,</hi> &amp;c. And in the next Verſe the Words Tranſlated, <hi>Upon the Waters of the River,</hi> may be rendred,<note place="margin">6.</note> 
                   <hi>Higheſt up the ſtream of the River,</hi> which is exactly conformable to the Original. And according to this Interpretation, the <hi>Man cloathed in Linnen,</hi> may be <hi>One</hi> of the <hi>Two</hi> in the former Verſe; and the <hi>Other</hi> is He that ſpeaks in the beginning of the ſixth Verſe, where the word <hi>[One]</hi> is put in to compleat the Senſe, but is not in the Original, and really alters
-<pb n="20" facs="tcp:002509_0022_0FDB662F4F747778"/>the Meaning. All which is perfectly conform<g ref="char:EOLhyphen"/>able to the Deſcription in the viii Chapter at the 13 and 16 Verſes.</p>
+<pb n="20" facs="unknown:002509_0022_0FDB662F4F747778"/>the Meaning. All which is perfectly conform<g ref="char:EOLhyphen"/>able to the Deſcription in the viii Chapter at the 13 and 16 Verſes.</p>
                <p>All theſe Deſcriptions perfectly agree with Our Saviour's Office of <hi>High-Prieſt,</hi>
                   <note place="margin">Heb. ix. 11,</note> 
                   <hi>Of good Things to come, by a greater and more perfect Tabernacle, not made with Hands;</hi> for which Reaſon He is <hi>entred into Heaven it ſelf now to appear in the Preſence of God for us.</hi>
@@ -463,7 +464,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                   <note place="margin">Rom. ii. 29,</note>
                </p>
                <p>I have been the more tedious and particular in Diſcovering who thoſe <hi>Two Perſons</hi> (menti<g ref="char:EOLhyphen"/>oned by <hi>Daniel</hi> and St. <hi>John</hi>) are, becauſe it is a ſtrong Argument to prove, that the Subject on which they are Repreſented, ſpeaking in the ſame manner, in different Viſions, is really the very ſame Subject, and that therefore the VIII. Chapter of <hi>Daniel</hi> is to be Explained by the ſame Key with the VII and XII Chapters, and with the XII, XIII and XVII Chapters of St. <hi>John</hi>'s <hi>Revelations.</hi> And of this Obſervation
-<pb n="21" facs="tcp:002509_0023_0FDB66308E97E6A0"/>I ſhall make great Uſe,<note place="margin">Dan. xii. 11,</note> when I come to Explain the Taking away <hi>the Daily,</hi> and Setting up <hi>the Abomination that maketh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="21" facs="unknown:002509_0023_0FDB66308E97E6A0"/>I ſhall make great Uſe,<note place="margin">Dan. xii. 11,</note> when I come to Explain the Taking away <hi>the Daily,</hi> and Setting up <hi>the Abomination that maketh <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eſclare.</hi>
                </p>
@@ -479,7 +480,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                   <hi>That the Lord will have War with</hi> Amaleck <hi>from Generation to Generation.</hi>
                </p>
                <p>In which word, the Expreſſion <hi>[The Lord
-<pb n="22" facs="tcp:002509_0024_0FDB6632CBDACA40"/>hath Sworn]</hi> is in the Original <hi>[The Hand upon the Throne of the Lord]</hi> which <hi>Throne of God</hi> is <hi>Heaven.</hi>
+<pb n="22" facs="unknown:002509_0024_0FDB6632CBDACA40"/>hath Sworn]</hi> is in the Original <hi>[The Hand upon the Throne of the Lord]</hi> which <hi>Throne of God</hi> is <hi>Heaven.</hi>
                   <note place="margin">Mat. v. 34,</note> From whence it is plain, that <hi>Lifting up the Hands unto Heaven,</hi> was a Poſture uſed in the moſt Solemn Oaths, and accordingly it is deſcribed in <hi>Daniel,</hi> where theſe words follow, <hi>And Sware by him that Liveth For Ever.</hi> This Oath is the ſame with that in St. <hi>John</hi>'s <hi>Revelations,</hi> and (as I have already ſhewn) taken by the <hi>ſame Perſon,</hi>
                   <note place="margin">Rev. x. 5.</note> where <q>The Angel which ſtood upon the Sea, and upon the Earth, Lifted up His Hand to Heaven,</q>
                </p>
@@ -489,7 +490,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                <p>It has been already ſhewn, who that Angel was, and as the Subſtance of the Oath which follows, is a Prophecy, ſo it was the Character of the High-Prieſt in Office to Prophecy; which is obſerved by St. <hi>John,</hi> upon the Advice that <hi>Caiphas</hi> gave the <hi>Jews, viz.</hi>
                </p>
                <p>
-                  <pb n="23" facs="tcp:002509_0025_0FDB6636CFE15690"/>
+                  <pb n="23" facs="unknown:002509_0025_0FDB6636CFE15690"/>
                   <q>That it was expedient that one Man Dye for the People. <note place="margin">Joh. xi. 50,</note>
                   </q>
                </p>
@@ -508,7 +509,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                <p>
                   <q>That it ſhall be for a <hi>Time, Times, and an half,</hi>
                      <note place="margin">Dan. xii. 7,</note>
-                     <pb n="24" facs="tcp:002509_0026_0FDB663815805560"/>and when he ſhall have accompliſhed to ſcatter the Power of the Holy People, all theſe things ſhall be finiſhed.</q>
+                     <pb n="24" facs="unknown:002509_0026_0FDB663815805560"/>and when he ſhall have accompliſhed to ſcatter the Power of the Holy People, all theſe things ſhall be finiſhed.</q>
                </p>
                <p>And in St. <hi>John</hi> the ſame is intended by the following words,</p>
                <p>"—That there ſhould be Time no longer.<note place="margin">Rev. x. 5. 6,</note>
@@ -529,7 +530,7 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                <p>
                   <q>Now I am come to make thee underſtand what shall befall thy People in the Latter Days,<note place="margin">Dan. x. 14,</note> for yet the Viſion is for many Days.</q> And again,</p>
                <p>
-                  <pb n="25" facs="tcp:002509_0027_0FDB663BCC531B08"/>
+                  <pb n="25" facs="unknown:002509_0027_0FDB663BCC531B08"/>
                   <q>But I will ſhew thee that which is noted in the Scripture of Truth.<note place="margin">21</note>
                   </q>
                </p>
@@ -544,11 +545,11 @@ Now there is <hi>No Viſion at the beginning,</hi> in this diſcourſe, but only
                <p>And in the Viſion of the firſt of <hi>Belshazzar,</hi> The Period, <q>Until a Time, Times,<note place="margin">Dan. VII 25.26.</note> and the dividing of Time," is applyed to a Power, whoſe Dominion was to be taken away, to conſume and deſtroy it unto the End.</q>
                </p>
                <p>
-                  <pb n="26" facs="tcp:002509_0028_0FDB663E2179FA10"/>
+                  <pb n="26" facs="unknown:002509_0028_0FDB663E2179FA10"/>
 By comparing of all which Characters of the Time, as I did before of the Perſons repreſented in the Viſions, it is evident, that the II. VII. VIII. and XII. Chapters of <hi>Daniel</hi> relate to one and the ſame Subject, and are to be made uſe of to Explain and Illuſtrate one another; and if that is not ſufficient to give light to the Prophecy, we will find an entire ſatisfaction by obſerving where St. <hi>John</hi> treats of the ſame Period, both in the words of <hi>Daniel,</hi> when he ſays,<note place="margin">Rev. XII 14.</note> that <q>the Woman is Nouriſhed in the Wilderneſs for a Time, Times and half a Time</q> and in other Words, which mean the ſame thing, and in one place,<note place="margin">Verſ. 6.</note> relate to the ſame <q>Woman in the Wilderneſs that they ſhould feed her there a Thouſand Two Hundred and Three Score Days.</q> And upon another Occaſion relate to the Witneſſes, <q>who ſhall Prophecy during a Thouſand Two Hundred and Three Score Days,<note place="margin">Chap. XI. 3.</note> Cloathed in Sack-Cloath.</q>
                </p>
                <p>The ſame Period is again mentioned under another Meaſure of the ſame Time, when it is ſaid,<note place="margin">Rev. XI. 2.</note> that <q>the Gentiles ſhall tread under the
-<pb n="27" facs="tcp:002509_0029_0FDB663F9246E8C8"/>Holy City <hi>Forty and Two Months:</hi>
+<pb n="27" facs="unknown:002509_0029_0FDB663F9246E8C8"/>Holy City <hi>Forty and Two Months:</hi>
                      <note place="margin">Rev. XIII. 5.</note>
                   </q> and <q>
                      <hi>That the Mouth ſpeaking</hi> great things, ſhall have Power given him to continue <hi>Forty and Two Months.</hi>
@@ -556,7 +557,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                </p>
                <p>It is very plain from all theſe Paſſages compared, that, <hi>Time, Times, and a half, One Thouſand Two Hundred and Sixty Days,</hi> and <hi>Forty Two Months,</hi> mean all the ſame thing, and conſequently, that the Word <hi>Time</hi> ſignifies a Year, <hi>Times,</hi> two Years, and <hi>half a Time,</hi> half a Year, ſince three Years and a half, conſiſting of Three Hundred and Sixty Days each, make juſt One Thouſand Two Hundred and Sixty Days, or Forty Two Months; and it is well known, that the moſt ancient Year among the <hi>Chaldeans,</hi> was divided in their Kalendar into Twelve Months of juſt Thirty Days each, which makes juſt Three Hundred and Sixty Days.</p>
                <p>The only thing that has any Difficulty in theſe places which I have quoted, is, to know what is here meant by a <hi>Day.</hi> It will be very obvious by conſidering the many things that are to be done in the time of <hi>One Thouſand Two Hundred
-<pb n="28" facs="tcp:002509_0030_0FDB6643378760B8"/>and Sixty Days,</hi> that they cannot poſſibly be done in the ſpace of three natural Years and a half; but it comes then to be inquired, by what it can be certainly known, what they mean, and in this the Books of <hi>Moſes</hi> and the Prophet <hi>Ezekid,</hi> have given all the light that can be deſired.</p>
+<pb n="28" facs="unknown:002509_0030_0FDB6643378760B8"/>and Sixty Days,</hi> that they cannot poſſibly be done in the ſpace of three natural Years and a half; but it comes then to be inquired, by what it can be certainly known, what they mean, and in this the Books of <hi>Moſes</hi> and the Prophet <hi>Ezekid,</hi> have given all the light that can be deſired.</p>
                <p>
                   <hi>Firſt,</hi>
                   <note place="margin">
@@ -577,7 +578,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                      </hi> his <hi>left Side,</hi> and lay the iniquity of the Houſe of <hi>Iſrael</hi> upon it, according to the Number of the Days that thou ſhalt lie upon it, thou ſhalt bear their iniquity.</q>
                </p>
                <p>
-                  <pb n="29" facs="tcp:002509_0031_0FDB66458CA12B68"/>
+                  <pb n="29" facs="unknown:002509_0031_0FDB66458CA12B68"/>
                   <q>For I have laid upon thee the Years of their iniquity, acording to the Number of the Days,<note place="margin">5.</note> Three Hundred and Ninety Days, ſo ſhalt thou bear the iniquity of the Houſe of <hi>Iſrael.</hi>
                   </q>
                </p>
@@ -589,7 +590,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                   <hi>When a Hand touched Daniel,</hi>
                   <note place="margin">Dan. X. 10.11.13.</note> and it was ſaid to him, <hi>Unto thee am I now ſent. Gabriel</hi> goes on to inform him, that <q>
                      <hi>The Prince of the King<g ref="char:EOLhyphen"/>dom of</hi> Perſia <hi>withſtood</hi> him <hi>One and Twenty Days;</hi> and adds, <hi>But lo, Michael, one of the
-<pb n="30" facs="tcp:002509_0032_0FDB6647CB7B1A28"/>Chief Princes came to help me, and I remained there with the Kings of</hi> Perſia.</q>
+<pb n="30" facs="unknown:002509_0032_0FDB6647CB7B1A28"/>Chief Princes came to help me, and I remained there with the Kings of</hi> Perſia.</q>
                </p>
                <p>Now it is known from Hiſtory, that <hi>Cyrus</hi> had been <hi>One and Twenty Years</hi> choſen Prince or General of the <hi>Perſians,</hi> who were then a diſtinct Nation from the <hi>Medes,</hi> before the deſtruction of <hi>Babylon,</hi> in which <hi>Cyrus</hi> joyned his Uncle <hi>Cyax<g ref="char:EOLhyphen"/>ares,</hi> called in Scripture <hi>Darius</hi> the <hi>Mede,</hi> and ſo it was One and Twenty Years before that Prince was ready to execute the deſign of Pro<g ref="char:EOLhyphen"/>vidence in that great Expedition which brought about the Deliverance of the <hi>Jews</hi> out of the Captivity, whoſe Prince was <hi>Mich<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
@@ -603,7 +604,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                   </q>
                </p>
                <p>
-                  <pb n="31" facs="tcp:002509_0033_0FDB664BAC8FEDB0"/>
+                  <pb n="31" facs="unknown:002509_0033_0FDB664BAC8FEDB0"/>
                   <q>Who is there among you of all his People?<note place="margin">Ezra. 1.3.</note> His God be with him, and let him go up to <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> which is in <hi>Judah,</hi> and build the Houſe of the Lord God of <hi>Iſrael,</hi> he is the God which is in <hi>Jeruſalem.</hi>
                   </q>
                </p>
@@ -619,7 +620,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                   </q>
                </p>
                <p>All this ſeems a natural Explanation of that <hi>Verſe</hi> in <hi>Daniel,</hi> and Confirms the Obſervation,<note place="margin">Dan. X. 13.</note> That <hi>Days</hi> were uſed in the Figurative Stile to
-<pb n="32" facs="tcp:002509_0034_0FDB664D0B5A1508"/>ſignifie <hi>Years,</hi> even in the Account of Things paſt, by the ſame Prophet, who imploys them in that Senſe in his Predictions of Things to come, as in the <hi>Two Thouſand three Hundred Days,</hi>
+<pb n="32" facs="unknown:002509_0034_0FDB664D0B5A1508"/>ſignifie <hi>Years,</hi> even in the Account of Things paſt, by the ſame Prophet, who imploys them in that Senſe in his Predictions of Things to come, as in the <hi>Two Thouſand three Hundred Days,</hi>
                   <note place="margin">Dan. VIII. 14. XII. 11.12.</note> the <hi>One Thouſand two Hundred and Ninety Days,</hi> and <hi>One Thouſand three Hundred and thirty Five Days,</hi> and in effect, tho' in other words, when he men<g ref="char:EOLhyphen"/>tions <hi>Times,</hi>
                   <note place="margin">XII. 7. VII. 25.</note> 
                   <hi>Time, and an Half,</hi> or <hi>Times, Time, and the dividing of Time;</hi> and in a very particu<g ref="char:EOLhyphen"/>lar manner in the <hi>Seventy Weeks,</hi>
@@ -632,7 +633,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                <p>— <q>There came certain of the Phariſees,<note place="margin">Lake XIII. 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>.</note>
-                     <pb n="33" facs="tcp:002509_0035_0FDB664F4D2A3D40"/>ſaying unto Him, Get thee out, and depart hence, for <hi>Herod</hi> will kill thee.</q>
+                     <pb n="33" facs="unknown:002509_0035_0FDB664F4D2A3D40"/>ſaying unto Him, Get thee out, and depart hence, for <hi>Herod</hi> will kill thee.</q>
                </p>
                <p>
                   <q>And he ſaid unto them,<note place="margin">32.</note> Go ye and tell that Fox, Behold, I caſt out Devils, and I do Cures <hi>to Day</hi> and <hi>to Morrow,</hi> and the <hi>Third Day</hi> I ſhall be Perfected.</q>
@@ -641,10 +642,10 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                </p>
                <p>In this place it cannot be our Saviour's meaning that he had but <hi>Three days</hi> to live; but that He was by His Father appointed to carry on His Miniſtry <hi>Three full Years;</hi> And this was the full <hi>Number of Years</hi> which he was to <hi>Perfect</hi> or Compleat, beſides a few Months, which not making up ſo much as <hi>half a Year,</hi> are not mentioned in this ſhort and occaſional Reply.</p>
                <p>Thus it appears, that by a <hi>Day,</hi> among the <hi>Jews,</hi> it was uſual, in the Figurative Stile, to mean a <hi>Year,</hi> and ſo this Period of <hi>Time, Times and an Half,</hi> or <hi>Forty two Months,</hi> or <hi>One thouſand two hundred and ſixty Days,</hi> may juſtly be allowed to ſignifie <hi>One thouſand two hundred and ſixty Years.</hi> And here ſome Eminent Chronologiſts
-<pb n="34" facs="tcp:002509_0036_0FDB6652F48B9960"/>have endeavoured to ſhew, that ſince every one of theſe Years did conſiſt but of <hi>three hundred and ſixty days</hi> among the <hi>Chaldeans,</hi> that in the adding up of the Sum, no more natural Days ſhould be counted than 1260 times 360, which would ſhorten the Term by more than five days in every year. But it muſt be conſidered, that neither the <hi>Chaldeans,</hi> nor indeed any other Na<g ref="char:EOLhyphen"/>tion, did at the end of a conſiderable number of common or Solar Years, count any more than we now do, but that they either ſuffered five days to paſs over without counting them at the end of every year, or when in a few years they perceived the Seaſons to go contrary to their Ka<g ref="char:EOLhyphen"/>lender, they threw in a Month extraordinary, to bring them right; and whatever way they varied this, ſtill we find, in effect, that they counted no more years, at the long run, than the Sun actually performed; and therefore we muſt follow their Method through-out, and according to their Kalender allow no more than 360 days to a year, in computing the number of the <hi>Figurative Days,</hi> which ſignifie <hi>Years.</hi> But <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="34" facs="unknown:002509_0036_0FDB6652F48B9960"/>have endeavoured to ſhew, that ſince every one of theſe Years did conſiſt but of <hi>three hundred and ſixty days</hi> among the <hi>Chaldeans,</hi> that in the adding up of the Sum, no more natural Days ſhould be counted than 1260 times 360, which would ſhorten the Term by more than five days in every year. But it muſt be conſidered, that neither the <hi>Chaldeans,</hi> nor indeed any other Na<g ref="char:EOLhyphen"/>tion, did at the end of a conſiderable number of common or Solar Years, count any more than we now do, but that they either ſuffered five days to paſs over without counting them at the end of every year, or when in a few years they perceived the Seaſons to go contrary to their Ka<g ref="char:EOLhyphen"/>lender, they threw in a Month extraordinary, to bring them right; and whatever way they varied this, ſtill we find, in effect, that they counted no more years, at the long run, than the Sun actually performed; and therefore we muſt follow their Method through-out, and according to their Kalender allow no more than 360 days to a year, in computing the number of the <hi>Figurative Days,</hi> which ſignifie <hi>Years.</hi> But <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hen we conſider
-<pb n="35" facs="tcp:002509_0037_0FDB6653D13712F0"/>how many of theſe Years are paſt and gone, we muſt not only Obſerve the Kalender, but alſo make the ſame Allowances that the Antients did, from time to time, and then we are ſure to agree with them in every part of our Calculation.</p>
+<pb n="35" facs="unknown:002509_0037_0FDB6653D13712F0"/>how many of theſe Years are paſt and gone, we muſt not only Obſerve the Kalender, but alſo make the ſame Allowances that the Antients did, from time to time, and then we are ſure to agree with them in every part of our Calculation.</p>
             </div>
             <div n="3" type="section">
                <head>
@@ -660,7 +661,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                </p>
                <p>The Expreſſion is very ſhort, but ſufficient to Remind <hi>Daniel,</hi> that it ſhould certainly come to paſs, as he had been informed already in the Viſion of the <hi>Four Beaſts,</hi> That <q>
                      <hi>He</hi> ſhall ſpeak great Words againſt the moſt High,<note place="margin">Chap. VII. 25.</note> and ſhall
-<pb n="36" facs="tcp:002509_0038_0FDB6657A80400D8"/>wear out the Saints of the moſt High, and think to change Times and Laws; and they ſhall be given into his hands until a <hi>Time, and Times, and the dividing of Time.</hi>
+<pb n="36" facs="unknown:002509_0038_0FDB6657A80400D8"/>wear out the Saints of the moſt High, and think to change Times and Laws; and they ſhall be given into his hands until a <hi>Time, and Times, and the dividing of Time.</hi>
                   </q>
                </p>
                <p>The <hi>Sameneſs</hi> of the Period ſhews plainly, that the <hi>[He]</hi> is the ſame in both theſe Places; and the Deſcription of <hi>Wearing out the Saints of the moſt High,</hi>
@@ -673,7 +674,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                <p>— <q>
                      <hi>Ten Kings</hi> that shall ariſe, and another ſhall riſe after them,<note place="margin">Chap. VII. 24.</note> and <hi>He</hi> ſhall be diverſe from the firſt, and <hi>He</hi> ſhall ſubdue <hi>Three</hi> Kings.</q> And then follows,</p>
                <p>
-                  <pb n="37" facs="tcp:002509_0039_0FDB6659CBAC6358"/>
+                  <pb n="37" facs="unknown:002509_0039_0FDB6659CBAC6358"/>
 "And He ſhall ſpeak great Words againſt the "moſt High, and ſhall wear out the Saints,<note place="margin">25.</note> 
                   <hi>&amp;c.</hi>
                </p>
@@ -687,7 +688,7 @@ By comparing of all which Characters of the Time, as I did before of the Perſon
                   <q>But the Saints of the moſt High ſhall take the Kingdom,<note place="margin">18.</note> and poſſeſs the Kingdom for<g ref="char:EOLhyphen"/>ever, even for ever and ever.</q>
                </p>
                <p>
-                  <pb n="38" facs="tcp:002509_0040_0FDB665B4C2F04C0"/>
+                  <pb n="38" facs="unknown:002509_0040_0FDB665B4C2F04C0"/>
 The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo particularly in the Viſion which <hi>Nebuchadnezzar</hi> ſaw, and which <hi>Daniel</hi> interpreted to him, and ended with telling him,<note place="margin">Dan. II. 45.</note> that <q>The Great God had made known to the King what ſhould come to paſs hereafter.</q>
                </p>
                <p>The Viſion of the <hi>third of Belshazzar,</hi>
@@ -696,12 +697,12 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                   <note place="margin">Rev. XII. 3. XIII<g ref="char:punc">▪</g> 1.111 XVII. 7.</note> and of <hi>The Beaſt</hi> which <hi>roſe up out of the Sea;</hi> and of <hi>The other Beaſt which came up out of the Earth:</hi> And of <hi>the Woman and the Beaſt that carrieth her.</hi>
                </p>
                <p>Now that all theſe things may be conſidered in their proper place and order, there does not ſeem to be a more natural and eaſy Method, than firſt to go through <hi>Nebuchadnezzar</hi>'s Viſion
-<pb n="39" facs="tcp:002509_0041_0FDB665ED51A63B8"/>of the <hi>great Image,</hi> with <hi>Daniel</hi>'s interpretation of it, and then to reſume the ſame Subject as it is repreſented to <hi>Daniel</hi> himſelf under the figure of <hi>four Beaſts,</hi> and there to take in the concurring places of Scripture which generally allude to that figure, and but ſeldom to <hi>Nebuchadnezzar</hi>'s <hi>great Image.</hi>
+<pb n="39" facs="unknown:002509_0041_0FDB665ED51A63B8"/>of the <hi>great Image,</hi> with <hi>Daniel</hi>'s interpretation of it, and then to reſume the ſame Subject as it is repreſented to <hi>Daniel</hi> himſelf under the figure of <hi>four Beaſts,</hi> and there to take in the concurring places of Scripture which generally allude to that figure, and but ſeldom to <hi>Nebuchadnezzar</hi>'s <hi>great Image.</hi>
                </p>
                <p>This laſt therefore as it is a compleat abridg<g ref="char:EOLhyphen"/>ment of it ſelf, will give the moſt familiar and eaſy notion of the main Scope of <hi>Daniel</hi> and St. <hi>John</hi>'s Prophecies, and when that is well apprehended, it may be attempted with better Succeſs to range in order the particular branches of them, and the circumſtances which have attended the great turns and moſt remarkable changes which have happened in the World.</p>
             </div>
             <div n="4" type="section">
-               <pb n="40" facs="tcp:002509_0042_0FDB665FD4258820"/>
+               <pb n="40" facs="unknown:002509_0042_0FDB665FD4258820"/>
                <head>
                   <hi>SECT. IV.</hi> Nebuchadnezzars Viſion of the great Image.</head>
                <p>
@@ -722,7 +723,7 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                <p>
                   <q>The King anſwered and ſaid to the <hi>Chaldeans,</hi>
                      <note place="margin">5.</note>
-                     <pb n="41" facs="tcp:002509_0043_0FDB66615EA24CE8"/>the thing is gone from me, if ye will not make known unto me the Dream, with the Inter<g ref="char:EOLhyphen"/>pretation thereof, ye ſhall be cut in Pieces and your Houſes ſhall be made a Dunghill.</q>
+                     <pb n="41" facs="unknown:002509_0043_0FDB66615EA24CE8"/>the thing is gone from me, if ye will not make known unto me the Dream, with the Inter<g ref="char:EOLhyphen"/>pretation thereof, ye ſhall be cut in Pieces and your Houſes ſhall be made a Dunghill.</q>
                </p>
                <p>
                   <q>But if ye ſhew the dream and the Inter<g ref="char:EOLhyphen"/>pretation thereof,<note place="margin">Chap. II. 6.</note> ye ſhall receive of me Gifts and Rewards, and great Honour, therefore ſhew me the Dream and the Interpretation thereof.</q>
@@ -738,7 +739,7 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                </p>
                <p>
                   <q>The <hi>Chaldeans</hi> anſwered before the King, and ſaid,<note place="margin">10.</note> there is not a Man upon the Earth
-<pb n="42" facs="tcp:002509_0044_0FDB6664F08E63B0"/>that can ſhew the King's Matter, therefore there is no King, Lord, nor Ruler that asked ſuch things of any <hi>Magician,</hi> or <hi>Aſtrologer,</hi> or <hi>Chaldean.</hi>
+<pb n="42" facs="unknown:002509_0044_0FDB6664F08E63B0"/>that can ſhew the King's Matter, therefore there is no King, Lord, nor Ruler that asked ſuch things of any <hi>Magician,</hi> or <hi>Aſtrologer,</hi> or <hi>Chaldean.</hi>
                   </q>
                </p>
                <p>
@@ -749,12 +750,12 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                <p>But whether the <hi>Wiſe Men</hi> pretended to this ſupernatural Art till now that they were forced to own the contrary, or whether they were only Men of Learning, and it was the ſuperſtition of the People, and not their own Pretenſions, that made them paſs for <hi>Conjurors,</hi>
                   <note place="margin">Dan. I. 20. chap. II. 13,</note> as ſeems moſt probable, ſince <hi>Daniel &amp; his Fellows</hi> were reckon'd among them.</p>
                <p>However that was, They were, it ſeems, obliged upon this occaſion to undeceive <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar,</hi>
-                  <pb n="43" facs="tcp:002509_0045_0FDB6665CDA729B8"/>and accordingly they gave him an Anſwer that diſown'd any ſupernatural Art in themſelves, and allowed that none but the Gods could Anſwer ſuch a Queſtion as the Kings, which Gods they did not pretend <hi>dwelt with Flesh,</hi> that is, inſpired them.</p>
+                  <pb n="43" facs="unknown:002509_0045_0FDB6665CDA729B8"/>and accordingly they gave him an Anſwer that diſown'd any ſupernatural Art in themſelves, and allowed that none but the Gods could Anſwer ſuch a Queſtion as the Kings, which Gods they did not pretend <hi>dwelt with Flesh,</hi> that is, inſpired them.</p>
                <p>It ſeems therefore, that all that they now pretended to, was to be skilled in that figurative Language, which had been uſually employed in true Prophetical Revelations, and ſo could without any inſpiration explain the importance of the Terms, and put the matter into Words commonly uſed and eaſily apprehended.</p>
                <p>In the ſame manner it ſeems to have been that the <hi>Magicians</hi> in <hi>Pharaoh</hi>'s Court imployed their Art and Skill to impoſe upon him, as far as Jugling Tricks would go. But where their Tricks failed them, they cryed out,<note place="margin">Exod. VIII. 19</note> 
                   <hi>This is the Finger of God.</hi> By which they gave up all Pretence to being themſelves Divinely Inſpi<g ref="char:EOLhyphen"/>red.</p>
                <p>But <hi>Daniel</hi> when he was brought before the King, gave him a proof or a <hi>Sign,</hi> that what
-<pb n="44" facs="tcp:002509_0046_0FDB6668189C4330"/>he was going to explain, would really come to paſs, ſince he told him what no Body could know but God and the King himſelf, when he was reminded of his Dream.</p>
+<pb n="44" facs="unknown:002509_0046_0FDB6668189C4330"/>he was going to explain, would really come to paſs, ſince he told him what no Body could know but God and the King himſelf, when he was reminded of his Dream.</p>
                <p>
                   <q>The King anſwered and ſaid to <hi>Daniel,</hi>
                      <note place="margin">Dan. II. 26,</note> whoſe name was <hi>Belteshazzar,</hi> Art thou able to make known unto me the Dream which I have ſeen, and the Interpretation thereof?</q>
@@ -771,7 +772,7 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                </p>
                <p>
                   <q>But as for me,<note place="margin">30.</note> this Secret is not revealed
-<pb n="45" facs="tcp:002509_0047_0FDB666B0D757EE0"/>to me for any Wiſdom that I have more than any living, but for their ſakes that ſhall make known the Interpretation to the King, and that thou mightſt know the thoughts of thy Heart.</q>
+<pb n="45" facs="unknown:002509_0047_0FDB666B0D757EE0"/>to me for any Wiſdom that I have more than any living, but for their ſakes that ſhall make known the Interpretation to the King, and that thou mightſt know the thoughts of thy Heart.</q>
                </p>
                <p>Where <hi>Daniel</hi> gives two Reaſons why God has inſtructed him in the <hi>Kings Matter,</hi> one that he might be inclined to deal favourably with the <hi>Jews</hi> now in Captivity, and the other that he might be well aſſured that what he was warned of in a Dream, would certainly come to paſs, and was not a common Dream.</p>
                <p>The Deſcription of the <hi>Dream</hi> it ſelf comes next.</p>
@@ -784,7 +785,7 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                <p>"His Legs of Iron, his Feet part of Iron "and part of Clay.<note place="margin">33,</note>
                </p>
                <p>
-                  <pb n="46" facs="tcp:002509_0048_0FDB666D4D24A3A8"/>
+                  <pb n="46" facs="unknown:002509_0048_0FDB666D4D24A3A8"/>
                   <q>Thou ſaweſt till that a Stone was cut out without Hands,<note place="margin">chap. ii. 34,</note> which ſmote the Image upon his Feet that were of Iron and Clay, and brake them to pieces.</q>
                </p>
                <p>
@@ -805,7 +806,7 @@ The ſame Series of Hiſtory had been expreſſed as methodically, but not ſo p
                   <hi>made known unto the King what shall come to paſs.</hi>
                </p>
                <p>
-                  <pb n="47" facs="tcp:002509_0049_0FDB66719A0E5190"/>
+                  <pb n="47" facs="unknown:002509_0049_0FDB66719A0E5190"/>
 And therefore what was <hi>already paſt,</hi> was not to make any part of the Dream. The <hi>Aſſyrian</hi> Monarchy had been very Powerful, and the <hi>Babylonish</hi> Kingdom, (which was founded on the Ruins of it) had ſubſiſted ſome years before <hi>Nebuchadnezzar,</hi> but it was the Deſign of this Prophetical Dream, to deſcribe only what was <hi>Yet to come;</hi> and ſo the firſt Kingdom, meant by the <hi>Head of Gold,</hi> contained only <hi>Nebuchadnezzar</hi> and his Followers to the Third Generation, as it is limited in <hi>Jeremiah</hi>'s Prophecy,</p>
                <p>
                   <q>And now have I given all theſe Lands into the Hand of <hi>Nebuchadnezzar,</hi>
@@ -815,7 +816,7 @@ And therefore what was <hi>already paſt,</hi> was not to make any part of the D
                   <q>And all Nations ſhall ſerve him, and his Son, and his Sons Son,<note place="margin">7.</note> until the very time of his Land come, and then many Nations and great Kings ſhall ſerve themſelves of him.</q>
                </p>
                <p>He was, undoubtedly, the greateſt Conqueror of his Time, and had Succeſs where-ever he made War, and ſo was a <hi>King of Kings,</hi> or a great Monarch; and the Spoils of every Nation
-<pb n="48" facs="tcp:002509_0050_0FDB6673605A9F90"/>which he attempted to Conquer, were <hi>given into his Hand.</hi> And this <hi>Babylonish Kingdom</hi> laſted till the Death of his Grand-Son <hi>Belshazzar.</hi>
+<pb n="48" facs="unknown:002509_0050_0FDB6673605A9F90"/>which he attempted to Conquer, were <hi>given into his Hand.</hi> And this <hi>Babylonish Kingdom</hi> laſted till the Death of his Grand-Son <hi>Belshazzar.</hi>
                </p>
                <p>
                   <hi>And after thee shall ariſe another Kingdom</hi> In<g ref="char:EOLhyphen"/>ferior <hi>to thee</hi>—<note place="margin">Dan. II. 39.</note>
@@ -829,13 +830,13 @@ And therefore what was <hi>already paſt,</hi> was not to make any part of the D
                <p>This <hi>Grecian <gap reason="illegible" resp="#PDCC" extent="4 letters">
                         <desc>••••</desc>
                      </gap>archy,</hi> begun by <hi>Alexander,</hi> comprehended many Countries in <hi>Europe,</hi> which
-<pb n="49" facs="tcp:002509_0051_0FDB6676F3789708"/>had not ſubmitted to either of the two firſt Mo<g ref="char:EOLhyphen"/>narchies; and indeed, at its firſt ſetting up, took in all that was then conſiderably Peopled in the World, which is according to the Stile of the Scripture, meant by <hi>All the Earth.</hi> For the <hi>Romans</hi> were then a very ſmall inconſiderable Colony, tho' afterwards they grew ſtrong enough to put a Period to all the Branches of the <hi>Grecian</hi> Monarchy.</p>
+<pb n="49" facs="unknown:002509_0051_0FDB6676F3789708"/>had not ſubmitted to either of the two firſt Mo<g ref="char:EOLhyphen"/>narchies; and indeed, at its firſt ſetting up, took in all that was then conſiderably Peopled in the World, which is according to the Stile of the Scripture, meant by <hi>All the Earth.</hi> For the <hi>Romans</hi> were then a very ſmall inconſiderable Colony, tho' afterwards they grew ſtrong enough to put a Period to all the Branches of the <hi>Grecian</hi> Monarchy.</p>
                <p>But the Expreſſion, <hi>Shall bear Rule over all the Earth,</hi> may well be thought to relate further to a Time when the <hi>Grecian</hi> Empire was to be ſet up again by <hi>Conſtantine,</hi> whoſe Dominion was much more Extenſive than <hi>Alexander</hi>'s. I ſhall in the Sequel of this Diſcourſe produce ſeveral probable Reaſons for this laſt Interpretation. But now I muſt go on in Order.</p>
                <p>
                   <q>And the <hi>Fourth Kingdom</hi> ſhall be ſtrong, as Iron,<note place="margin">Dan. II. 40.</note> foraſmuch as Iron breaketh in pieces and ſubdueth all things; and as Iron, that breaketh all theſe, ſhall it break in pieces and bruiſe.</q>
                </p>
                <p>This was the <hi>Roman Power,</hi> which Conquered all that had belonged to the <hi>Babylonish, Perſian</hi> or
-<pb n="50" facs="tcp:002509_0052_0FDB667B6AA432E0"/>
+<pb n="50" facs="unknown:002509_0052_0FDB667B6AA432E0"/>
                   <hi>Grecian Monarchies;</hi> and this Power continued Strong and United for a very long period; but at laſt there came a very great Change in their Affairs, which is next deſcribed.</p>
                <p>
                   <q>And whereas thou ſaweſt the Feet and Toes,<note place="margin">41.</note> part of Potters Clay, and part of Iron; The Kingdom ſhall be Divided, but there ſhall be in it of the Strength of the Iron, foraſmuch as thou ſaweſt the Iron mixed with Miry Clay.</q>
@@ -847,7 +848,7 @@ And therefore what was <hi>already paſt,</hi> was not to make any part of the D
                   <q>And whereas thou ſaweſt Iron mixt with Miry Clay,<note place="margin">43.</note> they ſhall mingle themſelves with the ſeed of Men, but they ſhall not Cleave one to another, even as Iron is not mixed with Clay.</q>
                </p>
                <p>Here is an Account of the great Change in the <hi>Roman Empire,</hi> when the <hi>Barbarons Nations,</hi> well deſcribed by <hi>Clay,</hi> poſſeſſed the Weſtern part of the <hi>Roman Empire,</hi> and the <hi>Roman Em<g ref="char:EOLhyphen"/>perors</hi> ſtill preſerved the Eaſtern part to Them<g ref="char:EOLhyphen"/>ſelves:
-<pb n="51" facs="tcp:002509_0053_0FDB667C4F3F9850"/>Thus <hi>They mingled themſelves with the the Seed of Men:</hi>
+<pb n="51" facs="unknown:002509_0053_0FDB667C4F3F9850"/>Thus <hi>They mingled themſelves with the the Seed of Men:</hi>
                   <note place="margin">Gen. VI. 2.</note> in the ſame Sence that <hi>The Sens of God ſaw the Daughters of Men,</hi> and <hi>took to them Wives, of all which they choſe;</hi> That is, the Princes of the World took as many Wo<g ref="char:EOLhyphen"/>men, among the common People, as they liked. And this appears to be <hi>Moſes</hi>'s meaning, by what follows,</p>
                <p>
                   <hi>When the Sons of God came in to the Daughters of Men,</hi>
@@ -862,7 +863,7 @@ And therefore what was <hi>already paſt,</hi> was not to make any part of the D
                   <note place="margin">Dan. II. 43.</note> But <hi>they did not cleave one to an<g ref="char:EOLhyphen"/>other.</hi> Their Dominions became entirely Sepe<g ref="char:EOLhyphen"/>rate, and they did not interfer with one another in the ſame Countries, but ſubſiſted at the ſame time as two Neighbouring Powers, till at laſt,</p>
                <p>
                   <q>And in the days of theſe Kings ſhall the God
-<pb n="52" facs="tcp:002509_0054_0FDB667DCE1A69A0"/>of Heaven ſet up a Kingdom,<note place="margin">44.</note> which ſhall never be deſtroyed; and the Kingdom ſhall not be left to other People, but it ſhall break in pieces, and Conſume all theſe Kingdoms, and it ſhall ſtand Forever.</q>
+<pb n="52" facs="unknown:002509_0054_0FDB667DCE1A69A0"/>of Heaven ſet up a Kingdom,<note place="margin">44.</note> which ſhall never be deſtroyed; and the Kingdom ſhall not be left to other People, but it ſhall break in pieces, and Conſume all theſe Kingdoms, and it ſhall ſtand Forever.</q>
                </p>
                <p>
                   <q>Foraſmuch as thou ſaweſt that the Stone was cut out of the Mountain without Hands,<note place="margin">45.</note> and that it brake in pieces the <hi>Iron,</hi> the <hi>Braſs,</hi> the <hi>Clay,</hi> the <hi>Silver</hi> and the <hi>Gold,</hi> The great God hath made known unto the King what ſhall Come to Paſs hereafter; and the Dream is Certain, and the Interpretation thereof Sure.</q>
@@ -880,7 +881,7 @@ And therefore what was <hi>already paſt,</hi> was not to make any part of the D
                   <hi>coming unto the Lord as a Living Stone, diſallowed indeed of Men, but Choſen of God, and Precious.</hi>
                </p>
                <p>
-                  <pb n="53" facs="tcp:002509_0055_0FDB668224ACDEC8"/>
+                  <pb n="53" facs="unknown:002509_0055_0FDB668224ACDEC8"/>
 They <hi>alſo,</hi>
                   <note place="margin">5.</note> 
                   <hi>as lively Stones are built up a Spi<g ref="char:EOLhyphen"/>ritual Houſe,</hi> &amp;c.</p>
@@ -898,7 +899,7 @@ They <hi>alſo,</hi>
                </p>
                <p>And the Prophet <hi>Iſaiah</hi> in another place,<note place="margin">Iſaiah XXIV 23.</note> after he had deſcribed the <hi>Lord of Hoſt's Reigning in</hi> Mount Zion <hi>&amp;</hi> Jeruſalem, <hi>and before his Antients gloriouſly,</hi> he adds,<note place="margin">XXV. 3.</note> 
                   <hi>The City of the Terrible Na<g ref="char:EOLhyphen"/>tions
-<pb n="54" facs="tcp:002509_0056_0FDB66830BC8D880"/>shall fear Thee,</hi> and <hi>The Branch of the Terrible Ones shall be brought Low.</hi>
+<pb n="54" facs="unknown:002509_0056_0FDB66830BC8D880"/>shall fear Thee,</hi> and <hi>The Branch of the Terrible Ones shall be brought Low.</hi>
                   <note place="margin">5.</note>
                </p>
                <p>Here is a plain Alluſion to <hi>Babylon,</hi> which be<g ref="char:EOLhyphen"/>ing <hi>The Head,</hi>
@@ -910,10 +911,10 @@ They <hi>alſo,</hi>
                   <note place="margin">6.</note> which, <hi>Whoſo falleth not down and Worshippeth, shall be caſt into the Burning F<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ery Furnace.</hi> Though the Perſons who have uſed this Cruel and Arbitrary Power, have been
-<pb n="55" facs="tcp:002509_0057_0FDB66848B41E988"/>different, and the Form of Government has often Varied, yet it has not fared better with the People or Subjects: They have ſtill continued in the ſame Slavery, tho' under different Maſters, and this is ſtill with the greater Propriety of Speech Repreſented by an <hi>Image</hi> or <hi>Idol,</hi> becauſe the Superſtitious Conceits of Mankind have been the chief Inſtruments of their Miſery, for nothing impoſed more on them than the Divine Honours that Princes often Aſſumed to Themſelves in their Life Time, and which were Univerſally paid them, after their Death; and as this was the chief Source of the <hi>Heathen Religion,</hi> ſo it was by this Deceit chiefly,<note place="margin">Math. XX. 25.</note> that <hi>The Princes of the</hi> Gentiles <hi>Exerciſed Dominion Over them:</hi> for, <hi>Firſt,</hi> The People was made to believe, that Kings after their Death were Tranſlated to Heaven, and ought to be Worſhiped as Gods, and from hence it grew Cuſtomany to make Statues, in Honour of them, before which the Ignorant Multitude uſed to Worſhip and offer Sacrifices: Theſe Statues of Kings and Empe<g ref="char:EOLhyphen"/>rours, St. <hi>Paul</hi> calls, <hi>Theſe Dumb Idols,</hi>
+<pb n="55" facs="unknown:002509_0057_0FDB66848B41E988"/>different, and the Form of Government has often Varied, yet it has not fared better with the People or Subjects: They have ſtill continued in the ſame Slavery, tho' under different Maſters, and this is ſtill with the greater Propriety of Speech Repreſented by an <hi>Image</hi> or <hi>Idol,</hi> becauſe the Superſtitious Conceits of Mankind have been the chief Inſtruments of their Miſery, for nothing impoſed more on them than the Divine Honours that Princes often Aſſumed to Themſelves in their Life Time, and which were Univerſally paid them, after their Death; and as this was the chief Source of the <hi>Heathen Religion,</hi> ſo it was by this Deceit chiefly,<note place="margin">Math. XX. 25.</note> that <hi>The Princes of the</hi> Gentiles <hi>Exerciſed Dominion Over them:</hi> for, <hi>Firſt,</hi> The People was made to believe, that Kings after their Death were Tranſlated to Heaven, and ought to be Worſhiped as Gods, and from hence it grew Cuſtomany to make Statues, in Honour of them, before which the Ignorant Multitude uſed to Worſhip and offer Sacrifices: Theſe Statues of Kings and Empe<g ref="char:EOLhyphen"/>rours, St. <hi>Paul</hi> calls, <hi>Theſe Dumb Idols,</hi>
                   <note place="margin">1 Cor. XII. 2.</note> 
                   <hi>unto
-<pb n="56" facs="tcp:002509_0058_0FDB6688545C8E10"/>which the</hi> Gentiles <hi>were carried away;</hi> Whereas he ſays,<note place="margin">Chap. VIII. 4.</note> 
+<pb n="56" facs="unknown:002509_0058_0FDB6688545C8E10"/>which the</hi> Gentiles <hi>were carried away;</hi> Whereas he ſays,<note place="margin">Chap. VIII. 4.</note> 
                   <hi>We know that an Idol is nothing in the whole World, and that there is no other God but One;</hi>
                   <note place="margin">5.</note> 
                   <hi>For tho' there be that are called Gods, whether in Heaven or Earth, (as there be Gods many and Lords many.)</hi>
@@ -935,7 +936,7 @@ They <hi>alſo,</hi>
                   <hi>I have ſaid, ye are Gods— But ye shall dye like Men, and fall like one of the Princes.</hi>
                </p>
                <p>But <hi>Secondly,</hi> Tho' the great Quantity of Idols that were Worſhipped, were in Honour of the
-<pb n="57" facs="tcp:002509_0059_0FDB668A9DBC59B8"/>Dead, yet the Living Princes of the World had generally the ſame Honours paid them.</p>
+<pb n="57" facs="unknown:002509_0059_0FDB668A9DBC59B8"/>Dead, yet the Living Princes of the World had generally the ſame Honours paid them.</p>
                <p>The Addreſs which the Wiſe Men made to <hi>Nebuchad<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>zzar</hi> of, <hi>O King, live for ever!</hi>
@@ -946,7 +947,7 @@ They <hi>alſo,</hi>
                   <note place="margin">7.</note> was <hi>to make a firm Decree, That whoſoever shall ask a Petition of any God or Man for Thirty Days, ſave of thee, O King, shall be caſt into the Den of Lyons.</hi>
                </p>
                <p>Which placed him in the ſtead of <hi>the Gods</hi> for that Time, and ſhews, that it was the Practice of the <hi>Perſians</hi> to treat their Princes as <hi>Gods,</hi> while they were alive. In like manner, <hi>Alexander</hi> made himſelf be Worſhipped as the Son of <hi>Jupiter Ammon,</hi> and the <hi>Roman Empe<g ref="char:EOLhyphen"/>rours Auguſtus</hi> and <hi>Domitian,</hi> while alive, were called <hi>Davi</hi> or <hi>Gods;</hi> And it grew a Cuſtom after the <hi>Antonines,</hi> to adore the Emperours Pictures, which were fixed on the Standards of
-<pb n="58" facs="tcp:002509_0060_0FDB668E655DEB00"/>the Army. So that the Idolizing of Princes in their Life Times, was practiſed under all the four Monarchies.</p>
+<pb n="58" facs="unknown:002509_0060_0FDB668E655DEB00"/>the Army. So that the Idolizing of Princes in their Life Times, was practiſed under all the four Monarchies.</p>
                <p>And thus it appears, that the <hi>Great Idol</hi> in <hi>Daniel,</hi> was very properly uſed as a Repreſen<g ref="char:EOLhyphen"/>tation of the Grand Impoſture under living Princes, who were Worſhipped as Gods, which was to continue to deceive the whole World from <hi>Daniel</hi>'s Time forward; and which St. <hi>John</hi> Expreſſes in another Figure, Repreſenting only what was to come after his Time, by</p>
                <p>A <hi>Red Dragon having Seven Heads and Ten Horns:</hi>
                   <note place="margin">Rev X. I. 3.</note> of which he afterwards ſays, <hi>And the great Dragon was caſt out,</hi>
@@ -954,7 +955,7 @@ They <hi>alſo,</hi>
                   <hi>that Old Serpent, called, the Devil and Satan, which deceiveth the whole World.</hi>
                </p>
                <p>By which it appears, that the like Deluſion had commenced long before the Period, or the <hi>great Image</hi> in <hi>Daniel,</hi> even from the firſt Time, that at the Inſtigation of the <hi>Serpent,</hi> that is, the Spirit of Ambition, and the love of Abſolute Power,<note place="margin">Gen. III. 5.</note> Man would be <hi>as Gods, knowing good and evil:</hi> When he withdrew himſelf from his
-<pb n="59" facs="tcp:002509_0061_0FDB668FD7CE6BE0"/>Obedience to God who had created him for <hi>good</hi> only:<note place="margin">I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="59" facs="unknown:002509_0061_0FDB668FD7CE6BE0"/>Obedience to God who had created him for <hi>good</hi> only:<note place="margin">I <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>1. IV. 8.</note> And by <hi>Cain's ſlaying his Brother Abel,</hi> we may obſerve, how early a Man aſſumed that Right over anothers Life, which belongs to God only, and which is the firſt Eminent inſtance of Arbitrary and Cruel Power.</p>
                <p>The like Crime is Recorded of <hi>Lamech.</hi>
@@ -967,7 +968,7 @@ They <hi>alſo,</hi>
                         <desc>••</desc>
                      </gap>h:</hi>
                   <note place="margin">I 28. XI. 6.</note> But that they ſet aſide, and <hi>would have nothing Reſtrained
-<pb n="60" facs="tcp:002509_0062_0FDB66916F2371A0"/>from them, which they had imagined to do.</hi>
+<pb n="60" facs="unknown:002509_0062_0FDB66916F2371A0"/>from them, which they had imagined to do.</hi>
                </p>
                <p>And we find the ſame Ambitious Arbitrary Power afterwards Remarkably exerciſed by the <hi>Pharaohs;</hi> and in proceſs of Time, ſometimes <hi>Egypt,</hi> and ſometimes <hi>Aſſyria</hi> had the greateſt part of the World under them, till the Kingdom of <hi>Babylon</hi> was ſet up, which made the <hi>Golden Head</hi> in the <hi>great Image.</hi> And thus by a ſhort View of Ancient Hiſtory,<note place="margin">Rev. XII. 9.</note> we ſee what had been all along the <hi>Idolatry</hi> that had <hi>deceived the whole World:</hi>
                   <note place="margin">Dan. II. 31.</note> Which <hi>Daniel</hi> and St. <hi>John</hi> allude to in the <hi>great Image,</hi> and the <hi>Old Serpent.</hi>
@@ -976,7 +977,7 @@ They <hi>alſo,</hi>
                </p>
                <p>
                   <q>Then was the Iron,<note place="margin">35.</note> the Clay, the Braſs, the Silver and the Gold broken to pieces together, and became like the Chaff of the Summer Threſhing Floors, and the Wind
-<pb n="61" facs="tcp:002509_0063_0FDB6694EFE27028"/>carried them away, that no place was found for them.</q>
+<pb n="61" facs="unknown:002509_0063_0FDB6694EFE27028"/>carried them away, that no place was found for them.</q>
                </p>
                <p>The deſign of this is plainly to ſhew, that the diſtinguiſhing Characters of the ſeveral Mona<g ref="char:EOLhyphen"/>chies ſhould Continue during the whole Period; and in this,<note place="margin">Rev. XIII. 1.</note> it agrees with the deſcription of the <hi>Beaſt</hi> in St. <hi>John, That riſes up out of the Sea:</hi> which will be found to be the <hi>Fourth Beaſt</hi> or <hi>Empire</hi> in its laſt Period, but it is deſcribed,<note place="margin">2.</note> 
                   <hi>Like unto a Leopard, with Feet like a Bear, and a Mouth like a Lyon.</hi>
@@ -986,7 +987,7 @@ They <hi>alſo,</hi>
                   <note place="margin">2 Theſſ. II. 3.4.</note> 
                   <hi>ſitteth in the Temple of God, as God,</hi> without being aſhamed.</p>
                <p>
-                  <pb n="62" facs="tcp:002509_0064_0FDB66968F155018"/>
+                  <pb n="62" facs="unknown:002509_0064_0FDB66968F155018"/>
 The <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ff of the Summer Threshing Floor,</hi>
@@ -1007,7 +1008,7 @@ The <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>wn in a tranſient View, will be better Underſtood, and ſet in a much ſtronger Light.</p>
             </div>
             <div n="5" type="section">
-               <pb n="63" facs="tcp:002509_0065_0FDB6698235BD1A0"/>
+               <pb n="63" facs="unknown:002509_0065_0FDB6698235BD1A0"/>
                <head>
                   <hi>SECT. V.</hi> Daniel's Viſion of the Four great Beaſts.</head>
                <p>
@@ -1038,7 +1039,7 @@ The <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>iix 36.</note> and I will ſcatter them towards all theſe Winds, and there ſhall be no Nation, whither the Out-caſts of <hi>Elam</hi> ſhall not come.</q>
                </p>
                <p>
-                  <pb n="64" facs="tcp:002509_0066_0FDB669B7A1DF1E8"/>
+                  <pb n="64" facs="unknown:002509_0066_0FDB669B7A1DF1E8"/>
 The <hi>great Sea</hi> being the place where the natural Winds have their full play, it is a proper Metaphor, for that Extent of Country which is the Scene of theſe <hi>Winds</hi> in the Figurative Sence, which are the contending Nations of the World.</p>
                <p>And in this ſence <hi>Iſaiah</hi> ſays: <q>
                      <hi>The Wicked</hi> are like the troubled Sea,<note place="margin">Iſa. Lvii. 20.</note> when it cannot reſt, whoſe Waters caſt up Mire and Dirt.</q>
@@ -1051,7 +1052,7 @@ The <hi>great Sea</hi> being the place where the natural Winds have their full p
                <p>The meaning then of this general abſtract of the Viſion is, that the great Contentions among the Nations of the World ſhould produce <hi>Four great Empires</hi> different from one another, and ſucceſſive, as appears by what immediately follows.</p>
                <p>
                   <q>The firſt was like a Lion,<note place="margin">vii. 4.</note> and had Eagles
-<pb n="65" facs="tcp:002509_0067_0FDB669C93C9EB00"/>Wings: and I beheld till the Wings thereof were pluck't, and it was lifted up from the Earth, and made ſtand upon the Feet as a Man, and a Mans H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="65" facs="unknown:002509_0067_0FDB669C93C9EB00"/>Wings: and I beheld till the Wings thereof were pluck't, and it was lifted up from the Earth, and made ſtand upon the Feet as a Man, and a Mans H<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>art was given to it.</q>
                </p>
@@ -1074,7 +1075,7 @@ The <hi>great Sea</hi> being the place where the natural Winds have their full p
                      </gap> Praiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d and Honoured
-<pb n="66" facs="tcp:002509_0068_0FDB669ED96E3160"/>him that liveth For Ever, whoſe Dominion is an Everlaſting Dominion, and his Kingdom i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="66" facs="unknown:002509_0068_0FDB669ED96E3160"/>him that liveth For Ever, whoſe Dominion is an Everlaſting Dominion, and his Kingdom i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> from Generation to Generation.</q>
                </p>
@@ -1097,7 +1098,7 @@ The <hi>great Sea</hi> being the place where the natural Winds have their full p
                   <hi>ſo is a Wicked Ruler over the Poor People.</hi>
                </p>
                <p>
-                  <pb n="67" facs="tcp:002509_0069_0FDB66A31FBB8518"/>
+                  <pb n="67" facs="unknown:002509_0069_0FDB66A31FBB8518"/>
                   <hi>Its raiſing it ſelf on out ſide,</hi> is more fully explained in another Viſion of <hi>Daniel,</hi> under a different Figure, where this <hi>Medo-Perſian</hi> Empire is more particularly Deſcribed and Interpreted.</p>
                <p>
                   <q>In the third Year of the Reign of King <hi>Bel<g ref="char:EOLhyphen"/>shazzar,</hi> a Viſion appeared unto me,<note place="margin">Dan. VIII. 1.</note> even unto me <hi>Daniel,</hi> after that which appeared unto me at the firſt.</q>
@@ -1116,7 +1117,7 @@ The <hi>great Sea</hi> being the place where the natural Winds have their full p
                   <note place="margin">20.</note>
                </p>
                <p>
-                  <pb n="68" facs="tcp:002509_0070_0FDB66A41351B1A8"/>
+                  <pb n="68" facs="unknown:002509_0070_0FDB66A41351B1A8"/>
 The Figure of the <hi>three Ribs in the Mouth of it,</hi>
                   <note place="margin">Dan. VII. 5.</note> 
                   <hi>which ſaid unto it, Ariſe devour much Flesh,</hi> is explained in the Viſion of the third of <hi>Cyrus,</hi>
@@ -1134,7 +1135,7 @@ The Figure of the <hi>three Ribs in the Mouth of it,</hi>
                <p>The reaſon why the <hi>Fourth</hi> is not reckoned among them, is, becauſe the firſt three only advanced or aggrandized the Monarchy. But <hi>Xerxes,</hi>
                   <note place="margin">XI 2.</note> 
                   <hi>tho' Stronger and Richer than they,</hi> yet by provoking <hi>Greece,</hi> laid a Fountation for
-<pb n="69" facs="tcp:002509_0071_0FDB66A9AFF1A6B0"/>the Ruin of what the others had Built up; and as, in fact, he was intirely Unſucceſsful and Unfortunate in that Attempt, from him may be dated the Decline of the <hi>Perſian Monarchy;</hi> and in his Time expired that Remarkable Character of the <hi>Ram,</hi> which had been maintained during their three firſt Kings, which is thus expreſſed,</p>
+<pb n="69" facs="unknown:002509_0071_0FDB66A9AFF1A6B0"/>the Ruin of what the others had Built up; and as, in fact, he was intirely Unſucceſsful and Unfortunate in that Attempt, from him may be dated the Decline of the <hi>Perſian Monarchy;</hi> and in his Time expired that Remarkable Character of the <hi>Ram,</hi> which had been maintained during their three firſt Kings, which is thus expreſſed,</p>
                <p>
                   <q>I ſaw the Ram puſhing Weſtward,<note place="margin">Dan. VIII. 4.</note> and Northward, and Southward, ſo that no Beaſts might ſtand before him, neither was there any that could deliver out of his Hand, but he did according to his Will, and became great.</q>
                </p>
@@ -1149,7 +1150,7 @@ The Figure of the <hi>three Ribs in the Mouth of it,</hi>
                   <note place="margin">Jer. V. 6.</note>
                </p>
                <p>
-                  <pb n="70" facs="tcp:002509_0072_0FDB66AACFF311A0"/>
+                  <pb n="70" facs="unknown:002509_0072_0FDB66AACFF311A0"/>
 A Fowl is likewiſe a Figure of a Deſtroying Power, which is employed by <hi>Jeremiah,</hi> among others, of the ſame Force.</p>
                <p>
                   <q>And I will appoint over them Four Kinds, ſaith the Lord,<note place="margin">Jer. XV. 3.</note> the Sword to Slay, and the Dogs to Tear, and the Fowls of Heaven, and the Beaſts of the Earth, to devour and deſtroy.</q>
@@ -1168,7 +1169,7 @@ A Fowl is likewiſe a Figure of a Deſtroying Power, which is employed by <hi>Je
                </p>
                <p>But here follows another Figure, which ought not to be confounded with what goes before.</p>
                <p>
-                  <pb n="71" facs="tcp:002509_0073_0FDB66AC4DE97A48"/>
+                  <pb n="71" facs="unknown:002509_0073_0FDB66AC4DE97A48"/>
                   <hi>The Beaſt had alſo Four Heads.</hi>
                   <note place="margin">Dan. VII 6.</note>
                </p>
@@ -1202,7 +1203,7 @@ A Fowl is likewiſe a Figure of a Deſtroying Power, which is employed by <hi>Je
                   </gap>re under the Figure of a <hi>He-Goat.</hi>
                </p>
                <p>
-                  <pb n="72" facs="tcp:002509_0074_0FDB66AFEC394230"/>
+                  <pb n="72" facs="unknown:002509_0074_0FDB66AFEC394230"/>
                   <q>And as I was conſidering, Behold,<note place="margin">Dan. VIII. 5.</note> an He-Goat came from the Weſt on the Face of the whole Earth, and touched not the Ground, and the Goat had a notable Horn between his Eyes.</q>
                </p>
                <p>
@@ -1222,7 +1223,7 @@ A Fowl is likewiſe a Figure of a Deſtroying Power, which is employed by <hi>Je
                   </q>
                </p>
                <p>
-                  <pb n="73" facs="tcp:002509_0075_0FDB66B0D8285B50"/>
+                  <pb n="73" facs="unknown:002509_0075_0FDB66B0D8285B50"/>
 The Interpretation of all this is added in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>me Chapter.</p>
@@ -1244,7 +1245,7 @@ The Interpretation of all this is added in the <gap reason="illegible" resp="#PD
                   <note place="margin">Dan. VII 20.24.25.</note> and to the <hi>little Horn which came up, whoſe Look was more Stout then his Fellows, and should think to change Times and Laws.</hi>
                </p>
                <p>
-                  <pb n="74" facs="tcp:002509_0076_0FDB66B30AF223A8"/>
+                  <pb n="74" facs="unknown:002509_0076_0FDB66B30AF223A8"/>
 But there is ſtill another help to Illuſtrate this whole Matter, in the Viſion of the third of <hi>Cyrus;</hi>
                </p>
                <p>
@@ -1263,7 +1264,7 @@ But there is ſtill another help to Illuſtrate this whole Matter, in the Viſio
                   <hi>When his Kingdom shall be Broken, and shall be Divided towards the Four Winds of Heaven.</hi>
                </p>
                <p>Which was accompliſhed under his Four Followers in the Kingdoms of <hi>Macedonia,</hi> leſſer <hi>Aſia, Syria</hi> and <hi>Egypt,</hi> for ſo many they were
-<pb n="75" facs="tcp:002509_0077_0FDB66B6D81B0158"/>at firſt, tho' indeed two of them fell much ſooner than the other two; but, as I obſerved before, <hi>Daniel</hi> touches only on the firſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="75" facs="unknown:002509_0077_0FDB66B6D81B0158"/>at firſt, tho' indeed two of them fell much ſooner than the other two; but, as I obſerved before, <hi>Daniel</hi> touches only on the firſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>trokes of each Remarkable Period.</p>
                <p>
@@ -1275,7 +1276,7 @@ But there is ſtill another help to Illuſtrate this whole Matter, in the Viſio
                <p>By this means that Riddle is Unfolded, how the ſame <hi>Little Horn</hi> which came up at the latter end of the <hi>Fourth Beaſt,</hi>
                   <note place="margin">Dan. VII. 8.</note> whoſe <hi>Teeth</hi> are indeed ſaid to be <hi>of Iron,</hi>
                   <note place="margin">19.</note> which is the Mettal of the <hi>Fourth</hi> Kingdom in the <hi>great Image,</hi> but his <hi>Nails</hi> are ſaid to be <hi>of Braſs,</hi> which was the Mettal of the <hi>Third</hi> Kingdom; How, I ſay, the ſame <hi>Little Horn,</hi> which came out of the
-<pb n="76" facs="tcp:002509_0078_0FDB66B919D05E30"/>
+<pb n="76" facs="unknown:002509_0078_0FDB66B919D05E30"/>
                   <hi>Fourth Beaſt,</hi> did alſo come out of <hi>one of the Horns</hi> of the <hi>Third,</hi>
                   <note place="margin">Dan. VIII. 9.</note> which was the <hi>Maced<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1305,7 +1306,7 @@ But there is ſtill another help to Illuſtrate this whole Matter, in the Viſio
                <p>This indeed was an entire Riddle, not poſſible to be explained, till the Times of <hi>Diocleſion</hi> and <hi>Conſtantine,</hi> and ſeems to have contributed more than any thing to <hi>Shut up the Viſion,</hi>
                   <note place="margin">Dan. VIII. 26.</note> 
                   <hi>for it should
-<pb n="77" facs="tcp:002509_0079_0FDB66BDB036B660"/>be for many Days,</hi> before it was poſſible to unfold it without knowing the certainty of ſuture I verts. And when I come to ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="77" facs="unknown:002509_0079_0FDB66BDB036B660"/>be for many Days,</hi> before it was poſſible to unfold it without knowing the certainty of ſuture I verts. And when I come to ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>w that in this VIII. Chapter the whole Period from <hi>Lom<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1341,7 +1342,7 @@ But there is ſtill another help to Illuſtrate this whole Matter, in the Viſio
                      </gap>rs pluckt up by the Roots, are <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> his
-<pb n="78" facs="tcp:002509_0080_0FDB66BF0CF98C68"/>
+<pb n="78" facs="unknown:002509_0080_0FDB66BF0CF98C68"/>
                      <hi>Horn</hi> were Eyes like the Eyes of a Man, and a Mouth ſpeaking great Things.</q>
                </p>
                <p>The ſame Deſcription is again Reſumed a little after in the following words,</p>
@@ -1361,7 +1362,7 @@ But there is ſtill another help to Illuſtrate this whole Matter, in the Viſio
                   <q>Thus he ſaid,<note place="margin">23.</note> The <hi>Fourth Beaſt</hi> ſhall be the <hi>Fourth Kingdom</hi> upon Earth, which ſhall be diverſ from all Kingdoms, and ſhall devour the whole Earth, and ſhall tread it down and break it in Pieces.</q>
                </p>
                <p>
-                  <pb n="79" facs="tcp:002509_0081_0FDB66C25E6FC368"/>
+                  <pb n="79" facs="unknown:002509_0081_0FDB66C25E6FC368"/>
 This is the <hi>Firſt State</hi> of the <hi>Roman Empire,</hi> it was <hi>diverſe</hi> from the Others, becauſe it had <hi>Seven Heads,</hi> or different forms of Government: Whereas the <hi>Firſt Beaſt</hi> or the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> had but <hi>One Head</hi> or form of <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -1397,7 +1398,7 @@ This is the <hi>Firſt State</hi> of the <hi>Roman Empire,</hi> it was <hi>diver
                      <note place="margin">Rev. XII. 3.</note> and <hi>Seven Crowns</hi> upon his Heads.</q>
                </p>
                <p>
-                  <pb n="80" facs="tcp:002509_0082_0FDB66C3931EC680"/>
+                  <pb n="80" facs="unknown:002509_0082_0FDB66C3931EC680"/>
 The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</hi> ſeems to be, becauſe <hi>Trajan,</hi> the firſt Emperour, of whom St. <hi>John</hi> Propheſies, and who Reigned very ſoon after the <hi>Revelations</hi> were written, did after his Con<g ref="char:EOLhyphen"/>queſt of the <hi>Dacians,</hi> take their Standerd, which was a <hi>Dragon</hi> and made it a <hi>Roman</hi> Standard.</p>
                <p>St. <hi>John</hi> here, and in other places, follows <hi>Daniel</hi>'s manner of Deſcription, which repreſents in the Viſion a Figure, as exiſting at onc<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1415,7 +1416,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                   </gap>, as St. <hi>John</hi> exprelly ſays, where he comes to relate what he learn'd from the Angel,</p>
                <q>
                   <p>
-                     <pb n="81" facs="tcp:002509_0083_0FDB66C75B356888"/>
+                     <pb n="81" facs="unknown:002509_0083_0FDB66C75B356888"/>
 —Here is the Mind which hath Wiſdom:<note place="margin">Rev. XVII. 9.</note> The <hi>Seven Heads</hi> are <hi>Seven Mountains.</hi>
                   </p>
                   <p>And there are <hi>Seven <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -1436,7 +1437,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                      </gap>inople, Was not yet come.</hi>
                </p>
                <p>And under that Head the Empire was to be divided into two Parts,<note place="margin">Rev. XII. 3.</note> the <hi>Dragon</hi> which pre<g ref="char:EOLhyphen"/>ſerved a Crown upon its <hi>Seventh Head,</hi> and a
-<pb n="82" facs="tcp:002509_0084_0FDB66C98F469178"/>
+<pb n="82" facs="unknown:002509_0084_0FDB66C98F469178"/>
                   <hi>
                      <gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
@@ -1496,7 +1497,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                      </gap>n Kings</hi> that shall ariſe.<note place="margin">Dan. VI. 24.</note>
                </p>
                <p>In the deſcription of the Old <hi>Roman Empire,</hi>
-                  <pb n="83" facs="tcp:002509_0085_0FDB66CB0EF4EF08"/>by <hi>The great Red Dragon,</hi>
+                  <pb n="83" facs="unknown:002509_0085_0FDB66CB0EF4EF08"/>by <hi>The great Red Dragon,</hi>
                   <note place="margin">Rev. XII. 3.</note> there are theſe <hi>Ten Horns</hi> mentioned as the laſt Stage of that Power: but the <hi>Crowns</hi> are repreſented <hi>on the Heads.</hi> In the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ſcription of the Renewal of that Empire in the Weſt,<note place="margin">XIII. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1524,7 +1525,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                   </gap>on, <hi>as it were, Wounded to Death,</hi> and theſe <hi>Horns</hi> clapt on to ſtop and <hi>heal the Wound;</hi> ſo that they only deſerved the name of wearing <hi>Crowns.</hi> And indeed that <hi>Weſtern Empire,</hi> from the time it grew totally diſtinct from the Other, under <hi>Honorius,</hi> never enjoy'd my caſe or ſecurity, but from firſt to laſt, was always oppreſſed by the Ravages and Depre<g ref="char:EOLhyphen"/>dations of the <hi>Ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>erians,</hi> till, in fine, they divided it amongſt themſelves, and then, and not till then, the Empire enjoyed Reſt under its
-<pb n="84" facs="tcp:002509_0086_0FDB66CE0CD62200"/>
+<pb n="84" facs="unknown:002509_0086_0FDB66CE0CD62200"/>
                   <hi>Ten</hi> new Maſters,<note place="margin">Rev. XIII. 3.4.</note> to the <hi>Wonder</hi> of the <hi>World,</hi> who <hi>Worshipped the Dragon that gave Power to the Beaſt, and Worshipped the Beaſt:</hi> That is, divided their Obedience between the Empire of the Eaſt, and theſe New Kingdoms, which were ſet up in the Weſt. For <hi>Worshipping,</hi> as I have already ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>w'd, rightly expreſſes that Unreaſo<g ref="char:EOLhyphen"/>nable Idolatrous Reſpect which Mankind have in all Ages ſhewn to <hi>Abſolute Princes,</hi> by treating them as <hi>Gods.</hi>
@@ -1536,7 +1537,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                <p>By this we learn, that they were not in being in St. <hi>John</hi>'s T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>me, that they were not in being together, and were to form one <hi>Beaſt,</hi> which is juſt before called the <hi>Eighth,</hi> who is of the <hi>Seven;</hi> that is to ſay, that the <hi>Seventh</hi> Form of the <hi>Roman Government,</hi> ſhould, upon its Diviſion
-<pb n="85" facs="tcp:002509_0087_0FDB66CED121BE00"/>into the Weſtern and Eaſtern Empires, at laſt receive a Total Alteration in the W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="85" facs="unknown:002509_0087_0FDB66CED121BE00"/>into the Weſtern and Eaſtern Empires, at laſt receive a Total Alteration in the W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ſt, which would be an <hi>Eighth,</hi> in order, but would be one of the <hi>Seven</hi> firſt, revived again:<note place="margin">XVII. 8.</note> 
                   <hi>Which was</hi> formerly, <hi>and is not,</hi> at the time St. <hi>John</hi> writes, and yet <hi>is (or should <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1558,7 +1559,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                      </gap>9. pag 639</note> 2dly, <hi>Vandals,</hi> 3dly, <hi>Francks,</hi> 4thly, <hi>Burgun<g ref="char:EOLhyphen"/>dians,</hi> 5thly, <hi>Hunns,</hi> 6thly, <hi>Alans,</hi> 7thly, <hi>Sueves,</hi> 8thly, <hi>Herules,</hi> 9thly, <hi>Oſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>o-Goths,</hi>
-                  <pb n="86" facs="tcp:002509_0088_0FDB66D0749695E0"/>and 10thly, <hi>Lombards.</hi> That theſe <hi>Ten Nation<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="86" facs="unknown:002509_0088_0FDB66D0749695E0"/>and 10thly, <hi>Lombards.</hi> That theſe <hi>Ten Nation<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
                   </hi> taking the Government of the <hi>Roman Empire</hi> into their Hands, revived the form of the <hi>Decemvirs,</hi> may <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1597,7 +1598,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                </p>
             </div>
             <div n="6" type="section">
-               <pb n="87" facs="tcp:002509_0089_0FDB66D36ED2D8D0"/>
+               <pb n="87" facs="unknown:002509_0089_0FDB66D36ED2D8D0"/>
                <head>
                   <hi>SECT. VI.</hi> Of the Li<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1660,7 +1661,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                      </gap>errles.</hi>
                </p>
                <p>
-                  <pb n="88" facs="tcp:002509_0090_0FDB66D58B6FEAE0"/>
+                  <pb n="88" facs="unknown:002509_0090_0FDB66D58B6FEAE0"/>
                   <hi>Secondly,</hi>
                   <note place="margin">pag. 491.</note> Of the <hi>Oſtio-Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1731,7 +1732,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                   <note place="margin">XVII. 14</note> And when the <hi>Ten Horns shall make War with the Lamb.</hi>
                </p>
                <p>
-                  <pb n="89" facs="tcp:002509_0091_0FDB66D71BD726C8"/>
+                  <pb n="89" facs="unknown:002509_0091_0FDB66D71BD726C8"/>
                   <hi>The latter Time of their Kingdom,</hi>
                   <note place="margin">Dan. VIII 23.</note> is another Mark of the Time when the <hi>little Horn</hi> in the VIII Chapter begins: Now we have already conſidered the <hi>latter Time</hi> of the <hi>Grecian Monar<g ref="char:EOLhyphen"/>chy,</hi> and have ſhewn it to have been, in all probability, when <hi>Conſtantive</hi> renewed the <hi>Greek Empire.</hi>
                </p>
@@ -1749,7 +1750,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                   <q>And his Tail drew the third part of the Stars of Heaven,<note place="margin">4.</note> and did caſt them to the Earth.—</q>
                </p>
                <p>Here <hi>is a Wonder in Heaven,</hi> Repreſenting
-<pb n="90" facs="tcp:002509_0092_0FDB66DAD02583B0"/>the fourth Kingdom in this World; which ſhews, that <hi>Heaven,</hi> in the Viſion, means no more than Power and Government, and <hi>Earth,</hi> the Sub<g ref="char:EOLhyphen"/>jects or Common People. And here are the <hi>third part of the Stars caſt down to the Earth;</hi> which by ſo early a Dream as <hi>Joſephs,</hi> meant no more than ſo many Eminent Perſons, as it is plain, was a common Figure in his Time, by this Paſſage.</p>
+<pb n="90" facs="unknown:002509_0092_0FDB66DAD02583B0"/>the fourth Kingdom in this World; which ſhews, that <hi>Heaven,</hi> in the Viſion, means no more than Power and Government, and <hi>Earth,</hi> the Sub<g ref="char:EOLhyphen"/>jects or Common People. And here are the <hi>third part of the Stars caſt down to the Earth;</hi> which by ſo early a Dream as <hi>Joſephs,</hi> meant no more than ſo many Eminent Perſons, as it is plain, was a common Figure in his Time, by this Paſſage.</p>
                <p>
                   <hi>Joſeph</hi> 
                   <q>Dreamed another Dream and told it his Brethren,<note place="margin">Gen. XXXVII 9.</note> and ſaid, Behold, I have Dreamed a Dream more, and behold, the Sun and Moon, and the eleven Stars made Obeiſance to me.</q>
@@ -1760,7 +1761,7 @@ The Reaſon why the <hi>Roman</hi> Empire is here deſcribed by a <hi>Dragon,</h
                <p>But it is well known by the Event, that they did <hi>Bow Themſelves down to him,</hi> and ſo the Dream proved a true Prophecy. And thus we ſee, that the <hi>Stars of Heaven</hi> may mean the ſame with the <hi>Ten Horns.</hi>
                </p>
                <p>
-                  <pb n="91" facs="tcp:002509_0093_0FDB66DB93F37F88"/>
+                  <pb n="91" facs="unknown:002509_0093_0FDB66DB93F37F88"/>
 But it remains to ſhew, that this <hi>Tail</hi> in St. <hi>John,</hi> means the ſame with the <hi>little Horn;</hi> and this <hi>Iſaiah</hi> helps us to make out, without dif<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
@@ -1785,7 +1786,7 @@ But it remains to ſhew, that this <hi>Tail</hi> in St. <hi>John,</hi> means the
                <p>But to return to the Deſcription of the <hi>little Horn,</hi> and his ſubduing <hi>Three Kings,</hi> which are in <hi>Daniel</hi> and St. <hi>John</hi> called <hi>Stars,</hi>
                   <note place="margin">Dan. VIII. 10. Rev. XII. 3.</note> and a <hi>third part of the Stars of Heaven,</hi> as indeed <hi>Three</hi> is the <hi>third</hi> of <hi>Ten,</hi> as nearly as it can be divided.</p>
                <p>It will be proper in this place to ſhew the
-<pb n="92" facs="tcp:002509_0094_0FDB66DD5569D790"/>Reaſon of varying the Figure, under which this <hi>little Horn</hi> is repreſented, and that will ſerve to Confirm the Obſerva<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="92" facs="unknown:002509_0094_0FDB66DD5569D790"/>Reaſon of varying the Figure, under which this <hi>little Horn</hi> is repreſented, and that will ſerve to Confirm the Obſerva<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ns already made.</p>
                <p>In the Viſion of the four Monarchies, <hi>He</hi> comes in, in his Order, and as a Power that had ſmall Beginnings in the laſt Stage of the <hi>Fourth Beaſt,</hi>
@@ -1799,7 +1800,7 @@ But it remains to ſhew, that this <hi>Tail</hi> in St. <hi>John,</hi> means the
                   <note place="margin">Rev. XII. 4.</note>
                </p>
                <p>In the XIII Chapter, where the riſe of the new <hi>Weſtern Empire</hi> is deſcribed, and the Wound it received by the Abolition of its <hi>Empe<g ref="char:EOLhyphen"/>rors,</hi> and the ſetting up the <hi>Ten Kings</hi> in their
-<pb n="93" facs="tcp:002509_0095_0FDB66DE8A0DAF48"/>Room, by which the <hi>Wound was Healed,</hi>
+<pb n="93" facs="unknown:002509_0095_0FDB66DE8A0DAF48"/>Room, by which the <hi>Wound was Healed,</hi>
                   <note place="margin">XIII. 3.</note> that is, the Diſorders of the <hi>Empire</hi> Abated, This <hi>little Horn</hi> is repreſented, not in his firſt State of <hi>Bishop</hi> of <hi>Rome</hi> only, who was not very great while the <hi>Emperors</hi> laſted, but when the <hi>Ten Horns</hi> had at laſt ſucceeded in their Room, then this <hi>little Horn</hi> ſhewed himſelf in his advanced State, as deſcribed by <hi>Daniel,</hi>
                   <note place="margin">Dan. VII 8.</note> 
                   <hi>of a Mouth ſpeaking great Things,</hi> and accordingly St <hi>John</hi> ſays of the <hi>Beaſt that was Wounded and Healed,</hi>
@@ -1817,7 +1818,7 @@ But it remains to ſhew, that this <hi>Tail</hi> in St. <hi>John,</hi> means the
                   <q>And I beheld another Beaſt riſing up out of the Earth, and he had two Horns like a Lamb,<note place="margin">Rev. XIII. 11.</note> and he ſpake like a Dragon.</q>
                </p>
                <p>
-                  <pb n="94" facs="tcp:002509_0096_0FDB66E402AA28D0"/>
+                  <pb n="94" facs="unknown:002509_0096_0FDB66E402AA28D0"/>
 This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, taken out of the <hi>Earth,</hi> which ſignifies, the <hi>Common People,</hi> as in fact, the <hi>Popes</hi> have always been; They are not like other Princes, of Noble Families, but are Elected out of a number of Cardinals,<note place="margin">1 Kings, vii 31.</note> who riſe often to that Dignity from little <hi>Prieſts,</hi>
                   <note place="margin">2 Chron. xi. 15.</note> taken from among <hi>the loweſt of the People.</hi>
                </p>
@@ -1828,7 +1829,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                </p>
                <p>The ſpeaking <hi>like a Dragon,</hi>
                   <note place="margin">Rev. xiii 11.</note> ſignifies, that notwithſtanding his Pretences to be the Vicar of Chriſt, he really would take upon him to Com<g ref="char:EOLhyphen"/>mand with the Power and Cruelty of a Heathen Perſecuting Roman Emperor, who is deſcribed
-<pb n="95" facs="tcp:002509_0097_0FDB66E55571F5B0"/>by a <hi>
+<pb n="95" facs="unknown:002509_0097_0FDB66E55571F5B0"/>by a <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ragon ſtanding before the Woman ready to be delivered, to devour her Child.</hi>
@@ -1847,7 +1848,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                </p>
                <p>And what <hi>Bel</hi> or <hi>Belus</hi> had been in the moſt ancient Time, <hi>Nebuchadnezzar</hi> was afterwards, and therefore is called the <hi>Head of Gold</hi> of the <hi>Terrible Image;</hi>
                   <note place="margin">Dan. ii. 33.</note> and for that reaſon in this New
-<pb n="96" facs="tcp:002509_0098_0FDB64EA4CF6CD48"/>
+<pb n="96" facs="unknown:002509_0098_0FDB64EA4CF6CD48"/>
                   <hi>Babylon</hi> the Head of that Church is naturally expreſſed by <hi>Nebuchadnezzar,</hi> or the King of <hi>Babylon:</hi> And in this ſenſe the ſame Prophet <hi>Jeremiah</hi> ſays, juſt before,</p>
                <p>
                   <q>Thus ſaith the Lord the God of <hi>Iſrael,</hi>
@@ -1867,7 +1868,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   <hi>ſpake like a Dragon.</hi>
                </p>
                <p>And it is very eaſy to ſee, that the Prophet
-<pb n="97" facs="tcp:002509_0099_0FDB64EDF2941EC0"/>
+<pb n="97" facs="unknown:002509_0099_0FDB64EDF2941EC0"/>
                   <hi>Jeremiah</hi> did not here mean Old <hi>Babylon,</hi> but the ſame New <hi>Babylon</hi> of St. <hi>John,</hi> ſince</p>
                <p>
                   <q>In thoſe Days, and at that Time,<note place="margin">Jer. L<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1880,7 +1881,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   <hi>and be divers from the firſt Ten, and should ſubdue three Kings:</hi> And ſhewn what other Paſſages may ſerve to Illuſtrate and Confirm theſe firſt Characters.</p>
             </div>
             <div n="7" type="section">
-               <pb n="98" facs="tcp:002509_0100_0FDB64EF957368C8"/>
+               <pb n="98" facs="unknown:002509_0100_0FDB64EF957368C8"/>
                <head>
                   <hi>SECT. VII.</hi> Of the Firſt Period.</head>
                <p>I Go on now to the other parts of <hi>his</hi> Deſcrip<g ref="char:EOLhyphen"/>tion, which ſerve to ſix the Time of <hi>his</hi> Beginning.</p>
@@ -1895,7 +1896,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                </p>
                <p>
                   <q>And through his Policy alſo,<note place="margin">25.</note> he ſhall cauſe Craſt to proſper in his Hand, and he ſhall
-<pb n="99" facs="tcp:002509_0101_0FDB64F15826EC20"/>magnify himſelf in his Heart, and by Peace (or Proſperity) ſhall deſtroy many.</q>
+<pb n="99" facs="unknown:002509_0101_0FDB64F15826EC20"/>magnify himſelf in his Heart, and by Peace (or Proſperity) ſhall deſtroy many.</q>
                </p>
                <p>And to this agrees the ſhort Expreſſion in the XII Chapter, which I have made my Prin<g ref="char:EOLhyphen"/>cipal Buſineſs to explain in this Eſſay,</p>
                <p>—<q>It ſhall be for a Time,<note place="margin">Dan. XII. 7.</note> Times and an Half, and when he ſhall have accompliſhed to ſeatter the Power of the Holy People, all theſe things ſhall be finiſhed.</q>
@@ -1911,7 +1912,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                </p>
                <p>
                   <q>And all that dwell upon the Earth ſhall<note place="margin">8.</note>
-                     <pb n="100" facs="tcp:002509_0102_0FDB64F4AFB67A40"/>Worſhip him, whoſe Names are not written in the Book of Life of the Lamb Slain from the Foundation of the World.</q>
+                     <pb n="100" facs="unknown:002509_0102_0FDB64F4AFB67A40"/>Worſhip him, whoſe Names are not written in the Book of Life of the Lamb Slain from the Foundation of the World.</q>
                </p>
                <p>And afterwards, where the ſame Power is repreſented,<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1932,7 +1933,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                </p>
                <p>
                   <q>And he had Power to give Life unto the Image of the Beaſt,<note place="margin">15.</note> that the Image of the Beaſt ſhould both ſpeak, and cauſe that, as
-<pb n="101" facs="tcp:002509_0103_0FDB64F6545A82A0"/>many as would not Worſhip the Image of the Beaſt, ſhould be killed.</q>
+<pb n="101" facs="unknown:002509_0103_0FDB64F6545A82A0"/>many as would not Worſhip the Image of the Beaſt, ſhould be killed.</q>
                </p>
                <p>
                   <q>And he cauſeth all, both ſmall and great,<note place="margin">Rev. xiii 16.</note> Rich and Poor, Free and Bond, to receive a Mark in their Right Hand, or in their Fore-Heads.</q>
@@ -1953,7 +1954,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   <hi>Blaſphemies,</hi> and<note n="(a)" place="margin">Dan. vii 25.</note> 
                   <hi>Wearing out the Saints of the Moſt High,</hi> and,<note n="(c)" place="margin">Dan. viii. 25.</note> 
                   <hi>through Policy cauſing Craft to proſper in his Hand,</hi> and
-<pb n="102" facs="tcp:002509_0104_0FDB64F7D9427228"/>permitting none to<note n="(d)" place="margin">Rev. XIII. 17.</note> 
+<pb n="102" facs="unknown:002509_0104_0FDB64F7D9427228"/>permitting none to<note n="(d)" place="margin">Rev. XIII. 17.</note> 
                   <hi>buy or ſell without the Mark,</hi> are a literal Deſcription of the Impiety of the Pope, in aſſuming divine Honour and Power to Himſelf, of his Perſecuting all true <hi>Chriſtians</hi> in the moſt Cruel Manner, of the deep Policy of the Court of <hi>Rome,</hi> and of their denying all the common benefits of Life to all who are not of their Religion.</p>
                <p>But we ſhall ſee yet more certainly that the <hi>Papacy</hi> is deſcribed, when we conſider the more particular Strokes of his Conduct, <hi>He exerciſeth all the Power of the firſt Beaſt before him,</hi>
                   <note place="margin">XIII. 12.</note> 
@@ -1964,7 +1965,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   </gap>ſts have had over the Conſciences of the People, has been employed to inſpire them with a Slaviſh Obedience to their Princes, and by means of this the Pope can likewiſe ſerve himſelf in his turn, by <hi>making Fire come down ſiom Heaven on the Earth,</hi>
                   <note place="margin">13.</note> 
                   <hi>in the ſight of Men;</hi> that is, by delivering over all that Offend him, to the Secular Arm, for <hi>Heaven</hi> ſtands for <hi>Government, Fire</hi> for
-<pb n="103" facs="tcp:002509_0105_0FDB64FAB9DF27B0"/>
+<pb n="103" facs="unknown:002509_0105_0FDB64FAB9DF27B0"/>
                   <hi>Perſecution,</hi> and <hi>Earth</hi> for <hi>the People,</hi> ſo <hi>he excrciſes all the Power of the firſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ſt,</hi> by being the Director of M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1996,7 +1997,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                         <item>666</item>
                      </list>
                   </note>this word makes juſt 666. which exactly agrees 
-<pb n="104" facs="tcp:002509_0106_0FDB64FB93403900"/>with Hiſtory, for the Papacy was ſet up in the <hi>La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="104" facs="unknown:002509_0106_0FDB64FB93403900"/>with Hiſtory, for the Papacy was ſet up in the <hi>La<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n Church,</hi> and never could Maſter the <hi>Greek Church</hi> totally.</p>
                <p>But among other Characters, the Diviſion of the Period into <hi>Time, Times</hi> and <hi>a Half,</hi> carries in it a ſtrong Proof, that the whole is perfectly well adapted to the <hi>Bishops of Rome,</hi> under theſe three States, 1ſt, their <hi>Riſe,</hi> 2dly, their <hi>Greatneſs,</hi> and 3dly, their <hi>Decline.</hi>
@@ -2005,7 +2006,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                <p>
                   <q>That whereas the Biſhop of <hi>Arles,</hi>
                      <note place="margin">Car Sig de Occid. Imperio pag. 306.</note> had preſu<g ref="char:EOLhyphen"/>med to ordain Biſhops without the leave of the <hi>Pope</hi> of <hi>Rome.</hi> It is provided by the Apoſtolick Authority, and by Ours, That neither He nor any Other may be ſuffered to do the like for the future</q> And at the ſame Time he publiſhed an Edict in Conjunction with <hi>Theodoſius</hi> the II. Emperor of the Eaſt, by which it
-<pb n="105" facs="tcp:002509_0107_0FDB64FD4E45DAB8"/>it was ordered,<note place="margin">Novel. Valenti. poſt Cod Theodo. Tit. 24. <hi>de Epiſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="105" facs="unknown:002509_0107_0FDB64FD4E45DAB8"/>it was ordered,<note place="margin">Novel. Valenti. poſt Cod Theodo. Tit. 24. <hi>de Epiſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>. Ordin.</hi>
                   </note> 
@@ -2017,7 +2018,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                <p>So that the Popes had then that Power acknow<g ref="char:EOLhyphen"/>ledged to belong to them, by the Emperors both of the Eaſt and Weſt, which they have exerciſed, more or leſs, ever ſince; and therefore it ſeems more re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ſonable to date the Riſe of the <hi>Papacy,</hi>
-                  <pb n="106" facs="tcp:002509_0108_0FDB6500D5A277A8"/>
+                  <pb n="106" facs="unknown:002509_0108_0FDB6500D5A277A8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> from the year 606. when <hi>
@@ -2053,7 +2054,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   </gap> influence on Temporal Princes, even during their Riſe, to deſtroy one after another, the three Kingdoms of the <hi>Herules, Goths</hi> and <hi>Lombards,</hi> and at laſt by making <hi>Charl<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>agne</hi> Emperor, they received from him their Temporal Sovereignty in <hi>Italy;</hi> but as he ſtill kept them under him, by reſerving a Negative in Himſelf and his Succeſſors, at the Election of
-<pb n="107" facs="tcp:002509_0109_0FDB6503E8902F90"/>Popes, they did not come to their heighth till 815. when <hi>Lewis Le Debonnaire</hi> ſucceeded his Father <hi>Charlemagne</hi> in the Empire, and being a weak Prince, confirmed and enlarged his Fathers Grants to the <hi>See of Rome,</hi> and neglected to inſiſt on his N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="107" facs="unknown:002509_0109_0FDB6503E8902F90"/>Popes, they did not come to their heighth till 815. when <hi>Lewis Le Debonnaire</hi> ſucceeded his Father <hi>Charlemagne</hi> in the Empire, and being a weak Prince, confirmed and enlarged his Fathers Grants to the <hi>See of Rome,</hi> and neglected to inſiſt on his N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>gative in the Election of a Pope, after they had ventured to elect one without his leave: And then expired the firſt <hi>Time</hi> or 360 Years of the Riſe of the <hi>Papacy.</hi>
                </p>
@@ -2063,10 +2064,10 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                      </gap>ermany,</hi> was juſt fixt in <hi>England,</hi> by abrogating the Popes Power by Act of Parliament, and firſt preached in <hi>France</hi> and <hi>Switzerland;</hi> and this Period was juſt of 720 Years, or <hi>Two Times,</hi> which included the whole Term of the Greatneſs of the <hi>Papacy.</hi>
                </p>
                <p n="3">3dly, Its Decline was from the <hi>Reformation</hi> till the Death of <hi>Lewis</hi> the XIV. who was the laſt great Power that attempted to extirpate <hi>Hereſie,</hi> as they called the <hi>Reformation;</hi> And how much the Authority of the <hi>See of Rome,</hi> then loſt, appear plainly by the diſreſpectful Treatment
-<pb n="108" facs="tcp:002509_0110_0FDB65056A32E310"/>of the <hi>Popes</hi> famous Conſtitution, <hi>Unigenitus,</hi> after that King's Death in the Kingdom of <hi>France,</hi> ſo that with him fell the Ballance of Power, on the ſide of the <hi>Church of Rome;</hi> for thoſe <hi>Popish Princes,</hi> who in the laſt Wars have ſided with the <hi>Proteſtants,</hi> have really hurt the Intereſt of the <hi>Popish Cauſe,</hi> as much as any others,<note place="margin">Matth. XII. 26.</note> according to our Saviours Expreſſion, <hi>If Satan caſt out Satan, he is divided againſt himſelf, how shall then his Kingdom ſtand?</hi> And this laſt Period is of <hi>Half a Time,</hi> or 180 Years, beginning at 1535. and ending in 1715. And if from the Death of <hi>Lewis</hi> XIV. the Kingdom of <hi>France</hi> ſhall, as well as the Emperor, and other <hi>Popish Powers,</hi> continue in the ſame Intereſt with the <hi>Proteſtant</hi> Ones, in oppoſition to the Pretenſions and Claims of the <hi>Papacy,</hi> as it has hitherto done, It is certain, that the <hi>See of Rome</hi> has loſt the Ballance of Power on its ſide, of which that Court ſeems very ſenſible, as appears by the late <hi>Popes</hi> Proteſtation at <hi>Cambray,</hi> in 1723. where we find theſe Remarkable Words,</p>
+<pb n="108" facs="unknown:002509_0110_0FDB65056A32E310"/>of the <hi>Popes</hi> famous Conſtitution, <hi>Unigenitus,</hi> after that King's Death in the Kingdom of <hi>France,</hi> ſo that with him fell the Ballance of Power, on the ſide of the <hi>Church of Rome;</hi> for thoſe <hi>Popish Princes,</hi> who in the laſt Wars have ſided with the <hi>Proteſtants,</hi> have really hurt the Intereſt of the <hi>Popish Cauſe,</hi> as much as any others,<note place="margin">Matth. XII. 26.</note> according to our Saviours Expreſſion, <hi>If Satan caſt out Satan, he is divided againſt himſelf, how shall then his Kingdom ſtand?</hi> And this laſt Period is of <hi>Half a Time,</hi> or 180 Years, beginning at 1535. and ending in 1715. And if from the Death of <hi>Lewis</hi> XIV. the Kingdom of <hi>France</hi> ſhall, as well as the Emperor, and other <hi>Popish Powers,</hi> continue in the ſame Intereſt with the <hi>Proteſtant</hi> Ones, in oppoſition to the Pretenſions and Claims of the <hi>Papacy,</hi> as it has hitherto done, It is certain, that the <hi>See of Rome</hi> has loſt the Ballance of Power on its ſide, of which that Court ſeems very ſenſible, as appears by the late <hi>Popes</hi> Proteſtation at <hi>Cambray,</hi> in 1723. where we find theſe Remarkable Words,</p>
                <p>
                   <hi>Can Chriſtian Princes flatter themſelves with
-<pb n="109" facs="tcp:002509_0111_0FDB6509BB7CFD18"/>the hopes of concluding a laſting Peace, when the Depriving of the</hi> Holy See <hi>and the</hi> Vicar of Jeſus Chriſt <hi>of their undeniable Rights, is made a Foundation of it?</hi>
+<pb n="109" facs="unknown:002509_0111_0FDB6509BB7CFD18"/>the hopes of concluding a laſting Peace, when the Depriving of the</hi> Holy See <hi>and the</hi> Vicar of Jeſus Chriſt <hi>of their undeniable Rights, is made a Foundation of it?</hi>
                </p>
                <p>And thus, I hope, I have made it Probable of the firſt great Period, to what time it may belong.</p>
                <p>
@@ -2083,7 +2084,7 @@ This Power was to be diſtinguiſhed by its being a Succeſſion of Perſons, ta
                   <q>And I heard, but I underſtood not; then ſaid I, O My Lord,<note place="margin">Dan. XII 8.</note> what ſhall be the End of theſe Things?</q>
                </p>
                <p>
-                  <pb n="110" facs="tcp:002509_0112_0FDB650A9CDF3470"/>
+                  <pb n="110" facs="unknown:002509_0112_0FDB650A9CDF3470"/>
 There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a Deſcription that belonged to the <hi>Romans,</hi> a Nation then not known in <hi>Aſia,</hi> and to the laſt Scene of their Power, which was not to begin, till almoſt a Thouſand Years after the Time of this Prophecy.</p>
                <p>And in this Uncertainty, it was natural to enquire, if there was any thing more to happen after what <hi>he had heard?</hi>
                </p>
@@ -2097,7 +2098,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   </gap>ſhment, that alone, was able to explain it fully, would not be till that Time ſhould come which is called, <hi>the Time of the End,</hi> and that therefore according to the Nature of Prophecy, as explained by St. <hi>Peter,</hi>
                   <note place="margin">2 Pet I 20.</note> 
                   <hi>That it was not its own Interpreter,</hi> he was to be contented to let it remain <hi>Cloſed up and Sealed</hi> till it ſhould be explained by degrees,<note place="margin">Dan. XII 9.</note>
-                  <pb n="111" facs="tcp:002509_0113_0FDB650C28651080"/>when <hi>the Seals should be Opened</hi> firſt in <hi>Heaven,</hi>
+                  <pb n="111" facs="unknown:002509_0113_0FDB650C28651080"/>when <hi>the Seals should be Opened</hi> firſt in <hi>Heaven,</hi>
                   <note place="margin">Rev. VI 1, 3, 5, 7 9, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>2. VIII. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2119,7 +2120,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>a
-<pb n="112" facs="tcp:002509_0114_0FDB65108EE581D0"/>
+<pb n="112" facs="unknown:002509_0114_0FDB65108EE581D0"/>
                   <hi>Fixed Time,</hi> or <hi>an Appointed Time,</hi> and is found, by what I have already ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>wn, to be <hi>a Year,</hi> which is a <hi>certain, Fixed</hi> or <hi>Limited Time:</hi> But in the firſt caſe, <hi>Time</hi> is expreſſed by a different <hi>Hebrew</hi> Word, which ſignifies <hi>Time in General,</hi> or <hi>Duration,</hi> and therefore <hi>of the End</hi> is added to determine what that <hi>Time</hi> was; and this is expreſſed by the ſame Word in the Original, and on the ſame Subject, where, juſt before, in a warn<g ref="char:EOLhyphen"/>ing of thoſe things that are to be <hi>Shut up and Sealed,</hi>
@@ -2139,7 +2140,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                         </gap> 7.</note> it is even the Time of <hi>Jacob</hi>'s Trouble, but he ſhall be ſaved out of it.</q>
                </p>
                <p>This <hi>Time of Trouble, ſo that none is like it,</hi>
-                  <pb n="113" facs="tcp:002509_0115_0FDB13C7686AC570"/>muſt be the ſame with what in St. <hi>Matthew</hi> is called,</p>
+                  <pb n="113" facs="unknown:002509_0115_0FDB13C7686AC570"/>muſt be the ſame with what in St. <hi>Matthew</hi> is called,</p>
                <p>—<q>
                      <hi>Great Tribulation,</hi>
                      <note place="margin">Matth, x<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2164,7 +2165,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                <p>
                   <q>—The Court that is without the Temple is given unto the <hi>Gentiles,</hi>
                      <note place="margin">Rev. XI. 2.</note> and the holy City
-<pb n="114" facs="tcp:002509_0116_0FDB651223B58A60"/>ſhall they Tread under foot <hi>forty &amp; two Months.</hi>
+<pb n="114" facs="unknown:002509_0116_0FDB651223B58A60"/>ſhall they Tread under foot <hi>forty &amp; two Months.</hi>
                   </q>
                </p>
                <p>Thus we find, that this <hi>Time of the End,</hi> and <hi>Time of Trouble,</hi> upon a due Tracing of it, in<g ref="char:EOLhyphen"/>cludes the whole Period of the <hi>Forty two Months,</hi> which means the ſame Thing with the <hi>Time, Times and a Half,</hi>
@@ -2178,7 +2179,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <note place="margin">XI. 15.</note> it is ſaid, <hi>The Kingdoms of this World are become the Kingdoms of our Lord.</hi>
                </p>
                <p>By which, compared with the whole Thread of this Chapter, We may perceive, that the
-<pb n="115" facs="tcp:002509_0117_0FDB6513937425F8"/>
+<pb n="115" facs="unknown:002509_0117_0FDB6513937425F8"/>
                   <hi>Myſtery of God,</hi> which was then Expired, con<g ref="char:EOLhyphen"/>ſiſted in the <hi>Sufferings of the Witneſſes,</hi> who had then <hi>finished their Teſtimony,</hi>
                   <note place="margin">Rev. xi. 7.</note> of <hi>a Thouſand two Hundred and Threeſcore Days,</hi>
                   <note place="margin">XI. 3.2.</note> 
@@ -2190,7 +2191,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <note place="margin">XII. 14.</note> 
                   <hi>Times and a Half.</hi> Where it is again obſervable, that the <hi>Greek</hi> word uſed in <hi>Time, Times and a Half,</hi> is not the ſame with the <hi>Greek</hi> word uſed where it is ſaid, <hi>There should be Time no longer,</hi>
                   <note place="margin">Rev. X.</note> as the ſame has been obſerved in the <hi>Hebrew.</hi> And by this we have a Specimen of the exact and nice Care uſed to expreſs theſe Prophetical Viſions, ſo that there may be no Confuſion or Uncer<g ref="char:EOLhyphen"/>tainty to perplex a careful Enquirer into the
-<pb n="116" facs="tcp:002509_0118_0FDB65182851EE10"/>meaning of the Expreſſions; for tho' in the Tranſlation it ſounds Odly, that the <hi>Time of the End,</hi> ſhould be a <hi>Time, Times and a Half,</hi> yet if the Original were du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="116" facs="unknown:002509_0118_0FDB65182851EE10"/>meaning of the Expreſſions; for tho' in the Tranſlation it ſounds Odly, that the <hi>Time of the End,</hi> ſhould be a <hi>Time, Times and a Half,</hi> yet if the Original were du<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ly rendred, it would be very eaſily apprehended, that the <hi>Time of the End</hi> may include <hi>Three certain Meaſures of Time and a Half,</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2210,7 +2211,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                <p>ANd now having obſerved what is <hi>the Time of the End,</hi> next follows a General Cha<g ref="char:EOLhyphen"/>racter of Mankind in that time.</p>
                <p>
                   <q>Many ſhall be Purified and made White,<note place="margin">Dan. XII. 10.</note>
-                     <pb n="117" facs="tcp:002509_0119_0FDB651993806E80"/>and Tryed, but the <hi>Wicked</hi> ſhall do Wickedly, and none of the <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="117" facs="unknown:002509_0119_0FDB651993806E80"/>and Tryed, but the <hi>Wicked</hi> ſhall do Wickedly, and none of the <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>cked</hi> ſhall Underſtand, but the <hi>W<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
@@ -2254,12 +2255,12 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   </gap> XII. Chapter, which is juſtifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d by Hiſtory. And we may eaſily be ſatisfied from thence, that
-<pb n="118" facs="tcp:002509_0120_0FDB651E72D96138"/>during <hi>the Time of the End,</hi>
+<pb n="118" facs="unknown:002509_0120_0FDB651E72D96138"/>during <hi>the Time of the End,</hi>
                   <note place="margin">Dan. xi. 32.</note> when <hi>ſuch as did Wickedly againſt the Covenant, were corrupt by Flatteries, thoſe that did know their God were Strong, and did Exploits;</hi> for there has been always, during the Times of <hi>Popery,</hi> Men of Integrity and Courage, who have publickly taught and wrote againſt the Corruptions of that Church, and Numbers of People who have followed them, as particularly the <hi>Vandois</hi> and <hi>Albigeois,</hi> but they have been Over-powered with Perſecutions and Croiſades, till at laſt, before they were quite extinguiſhed, the <hi>Refor<g ref="char:EOLhyphen"/>mation</hi> came in to their Aſſiſtance; but this did not make a ſincere Change in great Numbers who profeſſed it,<note place="margin">Pſalm Lxxviii 36.37.</note> but they <hi>Flattered</hi> the Refor<g ref="char:EOLhyphen"/>med <hi>with their Mouths,</hi> while <hi>their Hearts were far from them,</hi> and ſtill continued to like the Policy, and Grandure, and Power of the <hi>Church of Rome,</hi> and by this means there is wanting a <hi>ſecond Purging,</hi> even among thoſe who call themſelves <hi>Reformed,</hi>
                   <note place="margin">Matth xxiv, 14</note> which will not be compleated till the <hi>End comes.</hi>
                </p>
                <p>With this Deſcription of <hi>Daniel</hi>'s agrees what
-<pb n="119" facs="tcp:002509_0121_0FDB651F8C9E0E88"/>we find in the Prophet <hi>Iſaiah,</hi> when he deſcribes "the Covering caſt over all People,<note place="margin">Iſa. xxv. 7.</note> and the "Vail that is ſpread over all Nations.</p>
+<pb n="119" facs="unknown:002509_0121_0FDB651F8C9E0E88"/>we find in the Prophet <hi>Iſaiah,</hi> when he deſcribes "the Covering caſt over all People,<note place="margin">Iſa. xxv. 7.</note> and the "Vail that is ſpread over all Nations.</p>
                <p>
                   <q>But God will deſtroy it, and,<note place="margin">8.</note> wipe away Tears from all Faces, and the Rebuke of his People ſhall he take away from all the Earth.</q>
                </p>
@@ -2275,7 +2276,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                </p>
                <p>
                   <q>Lord, when thine Hand is lifted up,<note place="margin">11.</note> they
-<pb n="120" facs="tcp:002509_0122_0FDB65F3A433B340"/>will not ſee, but they ſhall ſee, and be aſhamed for their Envy at the People, yea, the Fire of thine Enemies ſhall devour them.</q>
+<pb n="120" facs="unknown:002509_0122_0FDB65F3A433B340"/>will not ſee, but they ſhall ſee, and be aſhamed for their Envy at the People, yea, the Fire of thine Enemies ſhall devour them.</q>
                </p>
                <p>Here are the <hi>Wiſe</hi> and the <hi>Wicked,</hi> and thoſe that <hi>cleave to the</hi> Wiſe <hi>with Ilatteries,</hi>
                   <note place="margin">Dan. XI. 34.</note> and their final Deſtruction, when <hi>the Time of the End</hi> comes, when <hi>the Ten Horns</hi> themſelves <hi>shall hate the Whore and eat her Flesh,</hi>
@@ -2291,7 +2292,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <q>Saying,<note place="margin">3.</note> Hurt not the Earth, neither the Sea, nor the Trees, till we have Sealed the Servants of our God in their Foreheads.</q>
                </p>
                <p>
-                  <pb n="121" facs="tcp:002509_0123_0FDB6524175A4968"/>
+                  <pb n="121" facs="unknown:002509_0123_0FDB6524175A4968"/>
                   <q>And I heard the Number of them which were Sealed,<note place="margin">Rev. vii. 4.</note> and there were Sealed an Hundred and Forty and Four Thouſand of all the Tribes of the Children of <hi>Iſrael.</hi>
                   </q> And here it might be proved, if the compaſs of this Treatiſe would permit it, that theſe One Hundred and Forty and Four Thouſand are the ſame with the <hi>Two Witneſſes in Sackcloth.</hi>
                   <note place="margin">Rev. xi. 3.</note>
@@ -2305,7 +2306,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                </p>
                <p>
                   <q>Slay utterly Old and Young,<note place="margin">6.</note> both Maids and little Children and Women, but come not near any man upon whom is the mark, and
-<pb n="122" facs="tcp:002509_0124_0FDB65258C51A7F0"/>begin at my Sanctary; then they began at the Ancient M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="122" facs="unknown:002509_0124_0FDB65258C51A7F0"/>begin at my Sanctary; then they began at the Ancient M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n which were before the Houſe.</q>
                </p>
@@ -2324,7 +2325,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <q>Theſe are they which came out of great Tribulation,<note place="margin">14.</note> and have Waſhed their Robes and made them White in the Blood of the Lamb.</q>
                </p>
                <p>
-                  <pb n="123" facs="tcp:002509_0125_0FDB6528F72C7360"/>
+                  <pb n="123" facs="unknown:002509_0125_0FDB6528F72C7360"/>
                   <q>Therefore are they before the Throne of God,<note place="margin">Rev. VII 15.</note> and ſerve him Day and Night in his Temple; and he that ſitteth on the Throne ſhall dwell among them.</q>
                </p>
                <p>
@@ -2337,7 +2338,7 @@ There was no probability that <hi>Daniel</hi> ſhould <hi>Underſtand</hi> a De�
                   <note place="margin">Matth<g ref="char:punc">▪</g> xxiv. 22. Amos viii. 11.12.13. Iſa. xlix. 8.9 10.19.25.</note> who after that, did not <hi>Hunger or Thirſt after the Words of the Lord,</hi> nor were the <hi>Heat</hi> or <hi>Sun</hi> to <hi>ſmite them</hi> after the <hi>Priſoners</hi> were to <hi>inherit the deſolate Heritages,</hi> or the <hi>Wilderneſs,</hi> and the <hi>Captives of the Mighty, and the Prey of the Terrible delivered.</hi>
                </p>
                <p>
-                  <pb n="124" facs="tcp:002509_0126_0FDB652AD8145268"/>
+                  <pb n="124" facs="unknown:002509_0126_0FDB652AD8145268"/>
 But it will be ſtill more evident, that the <hi>Reformation</hi> is here intended, if we obſerve, That <hi>all Kindreds,</hi>
                   <note place="margin">Rev. xiii 7.</note> 
                   <hi>and Tongues, and Nations,</hi> were at firſt under him <hi>that opened his Mouth in Blaſphemy againſt God,</hi>
@@ -2355,7 +2356,7 @@ But it will be ſtill more evident, that the <hi>Reformation</hi> is here intend
                <p>So that once, all the <hi>Common People,</hi> as well as the <hi>Great Kings</hi> of the <hi>Earth,</hi> that Ruled the People Cruelly and Tyrannically, were altogether Subject to the <hi>Church of Rome</hi> and her <hi>Popes.</hi> But where the <hi>Slaughter of the Witneſſes</hi> is de<g ref="char:EOLhyphen"/>ſcribed,<note place="margin">XI</note> (who were thoſe who ſtill continued in <hi>Tribulation,</hi> bearing Teſtimony to the Truth, under Perſecution in <hi>Popish</hi> Countries) There we find two Parties deſcribed, who are very differently diſpoſed to them.</p>
                <p>
                   <q>They of the People,<note place="margin">9</note> and Kindreds, and
-<pb n="125" facs="tcp:002509_0127_0FDB652C6ACAFC90"/>Tongues, and Nations, ſhall ſee their Dead Bodies three Days and a half, and ſhall not ſuffer their Dead Bodies to be put into Graves.</q>
+<pb n="125" facs="unknown:002509_0127_0FDB652C6ACAFC90"/>Tongues, and Nations, ſhall ſee their Dead Bodies three Days and a half, and ſhall not ſuffer their Dead Bodies to be put into Graves.</q>
                </p>
                <p>
                   <q>And they who dwell upon the Earth,<note place="margin">Rev. XI. 10.</note> ſhall Rejoyce over them, and make Merry, and ſhall ſend Gifts one to another, becauſe theſe two Prophets Tormented them that dwelt on the Earth.</q>
@@ -2367,7 +2368,7 @@ But it will be ſtill more evident, that the <hi>Reformation</hi> is here intend
                      </gap>vii. 1 to 11.</note> it was plainly a friendly Office to keep theſe Dead Bodies out of Graves, in order to their Reſurrection: And here it is plain, that <hi>they of the People and Kindreds,</hi> &amp;c. that is, ſome <hi>of the People,</hi>
                   <note place="margin">XI. 9. VII. 9.</note> &amp;c. are the ſame with <hi>the great Multitude of all Nations and Kin<g ref="char:EOLhyphen"/>dreds,</hi> &amp;c. and that the Remainder <hi>of the People and Kindreds,</hi> &amp;c. were yet under <hi>thoſe who dwell on the Earth:</hi>
                   <note place="margin">XI. 10.</note> But to put this out of all doubt, we need only obſerve, That when <q>the Angel flies with the Everlaſting Goſpel to<note place="margin">XIV. 6.</note>
-                     <pb n="126" facs="tcp:002509_0128_0FDB65300026FC78"/>Preach to them that dwell on the Earth, and to every Nation, and Kindred, and Tongue, and People,</q> then immediately after, another Angel followed,<note place="margin">Rev. XIV. 8.</note> ſaying, <hi>Babylon is fallen, is fallen.</hi> By which it is plain, they <hi>that adwell on the Earth</hi> are ſuppoſed to have the remainder of the <hi>People and Kindreds,</hi> &amp;c. under them, and when they ſhall likewiſe embrace the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="126" facs="unknown:002509_0128_0FDB65300026FC78"/>Preach to them that dwell on the Earth, and to every Nation, and Kindred, and Tongue, and People,</q> then immediately after, another Angel followed,<note place="margin">Rev. XIV. 8.</note> ſaying, <hi>Babylon is fallen, is fallen.</hi> By which it is plain, they <hi>that adwell on the Earth</hi> are ſuppoſed to have the remainder of the <hi>People and Kindreds,</hi> &amp;c. under them, and when they ſhall likewiſe embrace the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>formation,</hi> that then <hi>all the People and Kindreds,</hi> &amp;c. ſhall be no longer under the <hi>Mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2383,7 +2384,7 @@ But it will be ſtill more evident, that the <hi>Reformation</hi> is here intend
                </p>
             </div>
             <div n="10" type="section">
-               <pb n="127" facs="tcp:002509_0129_0FDB6530CE9B1AF0"/>
+               <pb n="127" facs="unknown:002509_0129_0FDB6530CE9B1AF0"/>
                <head>
                   <hi>SECT. X.</hi> Of the Second Period.</head>
                <p>I Now go on to the expreſs Words which ſix the ſecond Period.</p>
@@ -2400,7 +2401,7 @@ But it will be ſtill more evident, that the <hi>Reformation</hi> is here intend
                   <note place="margin">Dan. VIII. 9.10.</note> where he is deſcribing the <hi>little Horn which waxed exceeding great, even to the Hoſt of Heaven, and caſt down ſome of the Hoſt, and of the Stars to the Ground, and ſtamped upon them.</hi>
                </p>
                <p>
-                  <pb n="128" facs="tcp:002509_0130_0FDB65354BBD95B0"/>
+                  <pb n="128" facs="unknown:002509_0130_0FDB65354BBD95B0"/>
 He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.</hi>
                </p>
                <p>
@@ -2423,7 +2424,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                <p>In clearing up theſe two Paſſages of the laſt Chapter of <hi>Daniel,</hi> and the VIII. which both mention this taking away the <hi>Daily,</hi> and ſetting up the <hi>Tranſgreſſion,</hi> or <hi>Abomination</hi> of <hi>Deſolation.</hi>
                </p>
                <p>
-                  <pb n="129" facs="tcp:002509_0131_0FDB65360D219280"/>
+                  <pb n="129" facs="unknown:002509_0131_0FDB65360D219280"/>
                   <hi>Firſt,</hi> It is obſervable, (as I have already ſhewn) That the two Perſons ſpeaking, as well as the Subject of their Diſcourſe, are the ſame in both Viſions, <hi>viz. Michael,</hi>
                   <note place="margin">Dan. X. 5.</note> or the <hi>Man Cloa<g ref="char:EOLhyphen"/>thed in Linnen with a <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -2446,7 +2447,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                <p>It can therefore only mean the <hi>Daily in the Sanctuary, on the Altar to burn Incenſe,</hi>
                   <note place="margin">xxx. 1, 3.</note> 
                   <hi>overlaid
-<pb n="130" facs="tcp:002509_0132_0FDB6537906474F8"/>with pure Gold,</hi> Which <hi>Moſes</hi> was commanded,</p>
+<pb n="130" facs="unknown:002509_0132_0FDB6537906474F8"/>with pure Gold,</hi> Which <hi>Moſes</hi> was commanded,</p>
                <p>
                   <q>—Thou ſhalt put it before the Vail,<note place="margin">Exod XXX. 6.</note> that is by the Ark of the Teſtimony, before the Mercy Seat that is over the Teſtimony, where I will meet with thee.</q>
                </p>
@@ -2473,7 +2474,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                <p>This likewiſe agrees with <hi>Ezekiel</hi>'s Expreſſion, when <hi>the</hi> Man <hi>with the writers Ink-horn, wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="131" facs="tcp:002509_0133_0FDB653CE8E66DB0"/>to ſet a Mark on them that Sighed,</hi> his order is,<note place="margin">Ezek. IX. 6.</note> 
+                     <pb n="131" facs="unknown:002509_0133_0FDB653CE8E66DB0"/>to ſet a Mark on them that Sighed,</hi> his order is,<note place="margin">Ezek. IX. 6.</note> 
                   <hi>Come not near any Man upon whom is the Mark, and begin at my Sanctuary.</hi>
                </p>
                <p>In the next Chapter <hi>Ezekiel</hi> gives a Deſcrip<g ref="char:EOLhyphen"/>tion that is like to<note n="(a)" place="margin">Dan. VII 9, 10.</note> 
@@ -2487,7 +2488,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                   <q>And he (that is,<note place="margin">2.</note> the Ancient of Days) ſpake unto the <hi>Man Cloathed in Linnen,</hi> and ſaid, Go in between the Wheels, even under the Cherub, and fill thine hand with Coals of Fire from between the Cherubims, and ſcatter them over the City—</q>
                </p>
                <p>Now this agrees exactly with St. <hi>John</hi>'s Deſcription,<note place="margin">Rev. VII 3, 4</note> after <hi>the Servants of God were Sealed in their Fore-heads,</hi> during which ſealing
-<pb n="132" facs="tcp:002509_0134_0FDB653E5C9B7C80"/>the four Angels <hi>were not to hurt the Earth and the Sea;</hi>
+<pb n="132" facs="unknown:002509_0134_0FDB653E5C9B7C80"/>the four Angels <hi>were not to hurt the Earth and the Sea;</hi>
                   <note place="margin">Rev. vii. 3.</note> and which four Angels are the <hi>Four</hi> firſt of the <hi>Seven</hi> which he ſaw ſtanding before <hi>God,</hi>
                   <note place="margin">VIII. 2.</note> 
                   <hi>and to them were given ſeven Trumpets.</hi>
@@ -2519,7 +2520,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      </gap>ſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n Church</hi> left, but among the
-<pb n="133" facs="tcp:002509_0135_0FDB653FCC878CD0"/>
+<pb n="133" facs="unknown:002509_0135_0FDB653FCC878CD0"/>
                   <hi>Servants of God, Sealed in the Fore-head,</hi>
                   <note place="margin">Rev. vii. 3.</note> who were diſperſed here and there over the World.</p>
                <p>Thus I have, I think, ſufficiently ſhewn what was the meaning in <hi>Daniel,</hi>
@@ -2536,7 +2537,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                <p>Who this <hi>He</hi> is, is deſcribed in a few Verſes after,</p>
                <p>
                   <q>And the <hi>King</hi> ſhall do according to his Will, and <hi>He</hi> ſhall exalt himſelf,<note place="margin">36.</note> and Magnifie himſelf above every God, and ſhall ſpeak mar<g ref="char:EOLhyphen"/>vellous
-<pb n="134" facs="tcp:002509_0136_0FDB65436A826A70"/>Things againſt the God of Gods, and ſhall Proſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="134" facs="unknown:002509_0136_0FDB65436A826A70"/>Things againſt the God of Gods, and ſhall Proſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>, till the Indignation be Accompliſh<g ref="char:EOLhyphen"/>ed, for That that is determined ſhall be done.</q>
                </p>
@@ -2551,7 +2552,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                   <note place="margin">XI. 36.</note> 
                   <hi>and ſpeaking Marvellous Things againſt the God of Gods,</hi> is perfectly conformable to <hi>His Magnifying Himſelf in His Heart,</hi> and <hi>ſtanding up againſt the Prince of Princes.</hi>
                   <note place="margin">VIII. 25.</note> And thus it is out of all queſtion, that the Perſon <hi>taking away the Daily,</hi> and <hi>ſetting up the Abomination,</hi> in the XI. Chapter is the ſame with the Perſon who is ſaid to do it in the VIII. And then it will follow, it muſt be ſtill the ſame mentioned in the XII. which is but a Continuation of the Viſion of the XI. But the greateſt Confirmation
-<pb n="135" facs="tcp:002509_0137_0FDB65445AFB3A00"/>of the meaning of this Character given in the XI. Chapter, in this 36th Verſe, is given by St. <hi>Paul;</hi>
+<pb n="135" facs="unknown:002509_0137_0FDB65445AFB3A00"/>of the meaning of this Character given in the XI. Chapter, in this 36th Verſe, is given by St. <hi>Paul;</hi>
                </p>
                <p>
                   <q>Now we beſeech you, Brethren,<note place="margin">2 Theſſ. II. 1.</note> by the Coming of our Lord Jeſus Chriſt, and by our gathering together unto him,</q>
@@ -2569,7 +2570,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                </p>
                <p>
                   <q>And ye ſhall hear of Wars and Rumours
-<pb n="136" facs="tcp:002509_0138_0FDB654A1DBBB5A8"/>of Wars,<note place="margin">Matth. XXIV 6.</note> ſee that ye be not Troubled, for all theſe things muſt come to paſs, but the <hi>End is not yet,</hi>
+<pb n="136" facs="unknown:002509_0138_0FDB654A1DBBB5A8"/>of Wars,<note place="margin">Matth. XXIV 6.</note> ſee that ye be not Troubled, for all theſe things muſt come to paſs, but the <hi>End is not yet,</hi>
                   </q> adds the particular ſign which agrees with the <hi>Falling away,</hi> mentioned by St. <hi>Paul,</hi> and expreſſes it thus,</p>
                <p>
                   <q>When ye therefore ſhall ſee the <hi>Abomination</hi> of <hi>Deſolation</hi> ſpoken of by <hi>Daniel</hi> the Prophet,<note place="margin">15.</note> ſtand in the Holy Place,</q> or<note n="(*)" place="margin">Mark XIII. 14.</note> 
@@ -2603,7 +2604,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      </gap>4.</note> in St. <hi>Luke.</hi>
                </p>
                <p>But when we conſider the meaning of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem
-<pb n="137" facs="tcp:002509_0139_0FDB654B17D77C30"/>being tradden down by the Gentiles;</hi> as explained by St. <hi>John</hi>'s <hi>Revelations,</hi>
+<pb n="137" facs="unknown:002509_0139_0FDB654B17D77C30"/>being tradden down by the Gentiles;</hi> as explained by St. <hi>John</hi>'s <hi>Revelations,</hi>
                   <note place="margin">Rev. xi. 2.</note> 
                   <hi>that the Gen<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -2624,7 +2625,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                   </gap>e theſe two Evangeliſts with St. <hi>Matthew,</hi> to be taken in this Senſe, <hi>When theſe Things come to paſs,</hi> what <hi>Sign will</hi> they be to us who expect <hi>a Sign of thy Coming, and of the End of the World?</hi> I ſay, if we conſider, that theſe Queſtions are thus mixt, we may cer<g ref="char:EOLhyphen"/>tainly c<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>clude, that our Saviour's Anſwer is alſo mixt, and that he ſpeaks of the Deſtruction of
-<pb n="138" facs="tcp:002509_0140_0FDB654CE2A33FA0"/>the <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="138" facs="unknown:002509_0140_0FDB654CE2A33FA0"/>the <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>ple</hi> and literal <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2643,7 +2644,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                   <note place="margin">Matth. xxiv. 10, 11, 12.</note> and <hi>Betrayed one another, and falſe Prophets aroſe,</hi> and <hi>the Love of many wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ed Cold,</hi> and <hi>Iniquity abounded,</hi> which St.
-<pb n="139" facs="tcp:002509_0141_0FDB654F932FC228"/>
+<pb n="139" facs="unknown:002509_0141_0FDB654F932FC228"/>
                   <hi>Paul</hi> ſaid, only <hi>Worketh</hi> till the <hi>Man of Sin should be Revealed.</hi>
                   <note place="margin">2 Theſ. II 7.</note> And the Sign of this Time was to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2674,7 +2675,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                   <q>So he carried me away in the Sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rit into the Wilderneſs,<note place="margin">3.</note> and I ſaw a Woman ſit upon
-<pb n="140" facs="tcp:002509_0142_0FDB6551100349F8"/>a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="140" facs="unknown:002509_0142_0FDB6551100349F8"/>a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2739,7 +2740,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      </gap> xiii. 4.</note> how ſtrange and inconſiſtent it is to apply <hi>D<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>iels</hi> Prophecy of the VIII. Chapter, on this Subject, to <hi>Antiochus Epiphanes</hi> upon no other Authority than that of the firſt Book of <hi>Maccabees,</hi> in Contradiction to the Words of our Saviour, who ſpeaks of it as a future Event,
-<pb n="141" facs="tcp:002509_0143_0FDB6552A0C878A8"/>and Contrary to all the concurring Deſcriptions by which it plainly did not belong to the Inter<g ref="char:EOLhyphen"/>ruption of <hi>Burn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="141" facs="unknown:002509_0143_0FDB6552A0C878A8"/>and Contrary to all the concurring Deſcriptions by which it plainly did not belong to the Inter<g ref="char:EOLhyphen"/>ruption of <hi>Burn<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Offerings</hi> on the <hi>Brazen Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2755,7 +2756,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                <p>
                   <q>But in his Eſtate ſhall he honour the God of Forces,</q> 
                   <note place="margin">38.</note> (That is, the <hi>Dii Tutelares</hi> of the <hi>Romans,</hi> who are exactly Revived in the <hi>Images
-<pb n="142" facs="tcp:002509_0144_0FDB655785971378"/>of Saints</hi> and <hi>Angels,</hi> ſet up in Houſes) <q>and a God, whom his Fathers knew not, ſhall he honour with <hi>Gold</hi> and <hi>Silver,</hi> and with <hi>Precious Stones</hi> and <hi>Pleaſant Things.</hi>
+<pb n="142" facs="unknown:002509_0144_0FDB655785971378"/>of Saints</hi> and <hi>Angels,</hi> ſet up in Houſes) <q>and a God, whom his Fathers knew not, ſhall he honour with <hi>Gold</hi> and <hi>Silver,</hi> and with <hi>Precious Stones</hi> and <hi>Pleaſant Things.</hi>
                   </q>
                </p>
                <p>
@@ -2775,7 +2776,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                         </gap>cked</hi> be Revealed,<note place="margin">8.</note> whom the Lord ſhall conſume with the Spirit of his Mouth, and ſhall deſtroy with the bright<g ref="char:EOLhyphen"/>neſs of his Coming;</q>
                </p>
                <p>
-                  <pb n="143" facs="tcp:002509_0145_0FDB65588CBD8538"/>
+                  <pb n="143" facs="unknown:002509_0145_0FDB65588CBD8538"/>
                   <q>Even Him whoſe Coming is after the work<g ref="char:EOLhyphen"/>ing of <hi>Satan,</hi> with all <hi>Power,</hi> and <hi>Signs,</hi>
                      <note place="margin">2 Theſſ. II. 9.</note> and <hi>Lying Wonders,</hi>
                   </q>
@@ -2799,7 +2800,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      <note place="margin">3.</note> and Commanding <hi>To abſtain from Meats</hi> which God hath created to be received with Thankſgiving of them which believe and know the Truth.</q>
                </p>
                <p>Theſe, he ſays again,<note place="margin">2 Tim. III. 1.</note> are to be <q>In the <hi>Laſt Days,</hi> when <hi>Perillors Times</hi> ſhall come, Men ſhall be <hi>Lovers</hi> of <hi>their own ſelves, Covetous,</hi>
-                     <pb n="144" facs="tcp:002509_0146_0FDB655CD5F56238"/>&amp;c.</q> And at laſt,<note place="margin">2 Tim. iii 5.</note> 
+                     <pb n="144" facs="unknown:002509_0146_0FDB655CD5F56238"/>&amp;c.</q> And at laſt,<note place="margin">2 Tim. iii 5.</note> 
                   <q>Having a <hi>Form of Godlineſs,</hi> but denying the Power thereof; from ſuch turn away;</q>
                </p>
                <p>
@@ -2823,7 +2824,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      <note place="margin">3.</note> whoſe Judg<g ref="char:EOLhyphen"/>ment now of a long time ling<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>reth not, and
-<pb n="145" facs="tcp:002509_0147_0FDB655DCE29F230"/>their Damnation ſlumbereth not.</q>
+<pb n="145" facs="unknown:002509_0147_0FDB655DCE29F230"/>their Damnation ſlumbereth not.</q>
                </p>
                <p>And afterwards,<note place="margin">2 Pet II. 14.</note> 
                   <q>Having Eyes full of <hi>Adul<g ref="char:EOLhyphen"/>tery,</hi> and that cannot ceaſe from ſin, Beguiling Unſtable Souls; an heart they have exerciſed with <hi>Covetous Practices,</hi> Curſed Children.</q>
@@ -2847,7 +2848,7 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                      <note place="margin">21.</note> than after they have known it, to turn from the <hi>Holy Command<g ref="char:EOLhyphen"/>ment</hi> delivered unto them.</q>
                </p>
                <p>There is little Occaſion to ſhew how well all
-<pb n="146" facs="tcp:002509_0148_0FDC1BDC6FEA28B8"/>theſe Paſſages of Scripture agree with one another, and with <hi>Daniel</hi>'s and St. <hi>John</hi>'s Deſcriptions of <hi>Popery.</hi>
+<pb n="146" facs="unknown:002509_0148_0FDC1BDC6FEA28B8"/>theſe Paſſages of Scripture agree with one another, and with <hi>Daniel</hi>'s and St. <hi>John</hi>'s Deſcriptions of <hi>Popery.</hi>
                </p>
                <p>It remains now to Determine What is meant by this Period in the XII. Chapter of <hi>Daniel,</hi> more particularly,<note place="margin">Dan. xii. 11.</note> 
                   <q>From the Time that the <hi>Daily</hi> ſhall be taken away, and the <hi>Abomination that maketh Deſolate</hi> ſet up, there ſhall be <hi>One Thouſand Two Hundred and Ninety Days.</hi>
@@ -2866,11 +2867,11 @@ He goes on to give the moſt diſtinguiſhing Character of this <hi>Little Horn.
                         </gap>4.</note> Unto Two Thouſand and Three Hundred</q> (<hi>Evening Mornings,</hi> for ſo is the Original rendred) <q>Days, Then ſhall the Sanctuary be cleanſed.</q>
                </p>
                <p>
-                  <pb n="147" facs="tcp:002509_0149_0FDC1BD7B38DA990"/>
+                  <pb n="147" facs="unknown:002509_0149_0FDC1BD7B38DA990"/>
                   <hi>Moſes</hi> ſpeaks in the ſame Stile,<note place="margin">Gen. I. 5, 8, 13.19.23.31.</note> putting the <hi>Evening</hi> firſt, when he ſays, <hi>an Evening and a Morning were a Day;</hi> but <hi>Daniel</hi>'s employing that Expreſſion here, and no where elſe, ſerved to make this Calculation ſtill the more obſcure, or <hi>Shut up</hi> till the <hi>many Days</hi> were near their End,<note place="margin">Dan. viii 26.</note> to which this Viſion of <hi>the Evening and the Morning</hi> belonged.</p>
                <p>Now reckoning from the third of <hi>Belshazzar</hi> when <hi>Daniel</hi> had this Viſion, the whole Period of Two Thouſand and Three Hundred Pro<g ref="char:EOLhyphen"/>phetical <hi>Days,</hi> which were <hi>Years,</hi> we ſhall find they began, by the common Account, 553 years before Chriſt. But if with <hi>Petavius,</hi> in order to make up the <hi>Seventy Years</hi> of the <hi>Babylonish Captivity,</hi> we begin <hi>Nebuchadnezzar</hi>'s Reign two years ſooner than the common Account, in his Fathers Life time, and yet allow <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> but forty three years Reign, according to <hi>Ptolomy</hi>'s Canon, and <hi>Beroſus,</hi> Then theſe Two Thouſand three hundred years will begin juſt 555. before Chriſt, and conſequently will end in 1745.</p>
                <p>
-                  <pb n="148" facs="tcp:002509_0150_0FDB6561C9BEB870"/>
+                  <pb n="148" facs="unknown:002509_0150_0FDB6561C9BEB870"/>
 By which we ſee the compleat Agreement of thoſe two different Accounts, which is the ſtrongeſt Proof that they are both Right</p>
                <p>And ſince I have had occaſion to mention the <hi>Babylonish Captivity</hi> of 70 Years,<note place="margin">2 Kings X<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2882,7 +2883,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                <p>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>fore I cloſe what I have to ſay on this <hi>Second Period,</hi> which ſeems to me to carry the
-<pb n="149" facs="tcp:002509_0151_0FDB6563D7818460"/>ſtrongeſt Evidence for fixing the <hi>Time of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+<pb n="149" facs="unknown:002509_0151_0FDB6563D7818460"/>ſtrongeſt Evidence for fixing the <hi>Time of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>inning</hi> of all the <hi>Three,</hi> I muſt not omit the Opinion St. <hi>Jerome <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
@@ -2896,7 +2897,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                   <hi>VVo to them that are with Child, and is them that give Suck in thoſe Days.</hi>
                </p>
                <p>By which it is plain, that St. <hi>Jerom</hi> applies
-<pb n="150" facs="tcp:002509_0152_0FDB65680BBBFF70"/>theſe Threatnings to the Deſtruction of the <hi>Roman Empire,</hi> as I have done in the foregoing Parts of this Diſcourſe. And all theſe Arguments he uſes in an Epiſtle to <hi>Ageruchia,</hi> to diſſuade her from a ſecond Marriage in ſuch miſerabſe Times.</p>
+<pb n="150" facs="unknown:002509_0152_0FDB65680BBBFF70"/>theſe Threatnings to the Deſtruction of the <hi>Roman Empire,</hi> as I have done in the foregoing Parts of this Diſcourſe. And all theſe Arguments he uſes in an Epiſtle to <hi>Ageruchia,</hi> to diſſuade her from a ſecond Marriage in ſuch miſerabſe Times.</p>
                <p>And thus have I endeavoured to explain the <hi>Second Period,</hi> contained in theſe Words of <hi>Daniel,</hi>
                </p>
                <p>
@@ -2907,7 +2908,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                <head>
                   <hi>SECT. XI.</hi> Of the Third Period.</head>
                <p>I Will now proceed to explain the Third and laſt Period of <hi>One Thouſand Three Hundred</hi> and <hi>Thirty Five</hi> Days, and then ſhew that theſe three diſtinct Periods are not only diſtinguiſhed in this XII. Chapter of <hi>Daniel,</hi> but likewiſe in the VII. and very particularly in the Hiſtory, as
-<pb n="151" facs="tcp:002509_0153_0FDB65692E66A598"/>it is contained in the <hi>Revelations</hi> of St. <hi>John.</hi>
+<pb n="151" facs="unknown:002509_0153_0FDB65692E66A598"/>it is contained in the <hi>Revelations</hi> of St. <hi>John.</hi>
                </p>
                <p>
                   <hi>Daniel</hi> ends his Prophecy with this comfortable Warning from the Lord,</p>
@@ -2934,17 +2935,17 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                   <note place="margin">Ezra. I. 1.</note> but th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y Laboured under ſuch Dfficulties that they could not Rebuild the Temple till the
-<pb n="152" facs="tcp:002509_0154_0FDB656AA592BA88"/>VI year of <hi>Darins,</hi>
+<pb n="152" facs="unknown:002509_0154_0FDB656AA592BA88"/>VI year of <hi>Darins,</hi>
                   <note place="margin">Exra VI. 15. Nehem. II. 1. V. 14. VI. 15. XII. 27. XIII. 6.</note> nor was the Wall of their City finiſhed, (which alone ſecured them from the Inſults of their Neighbours) till the XX of <hi>Artaxerxes,</hi> at the ſooneſt, or as ſeems moſt probable, till the XXXII Year of that Kings Reign.</p>
                <p>The Overturning the <hi>Heathen Roman Empire</hi> by <hi>Conſtantine,</hi> is the Period whence we reckon its End, and yet it had a Revival, in <hi>Julian,</hi> ſeveral years after, which laſted till, on <hi>Julian</hi>'s Death, it finally Periſhed.</p>
                <p>The <hi>Power</hi> of the <hi>Popes</hi> in <hi>England</hi> was taken away by <hi>Henry</hi> the VIII. and thence we reckon its Fall, tho' it had a dangerous Revival in Queen <hi>Mary</hi>'s Reign, but was quite Extirpated upon her Death.</p>
                <p>And in <hi>Germany,</hi> when the <hi>Reformation</hi> firſt began, and the <hi>Smalkaldick</hi> League was at its height, we reckon the <hi>Papal Power</hi> received its Deciſive Stroke among thoſe Princes and Cities who imbraced the <hi>Reformation;</hi> tho' afterwards <hi>Charles</hi> the V. had Impriſoned ſome, Deprived others, and well nigh Extinguiſhed the Party, till
-<pb n="153" facs="tcp:002509_0155_0FDB656C0D3EF5F0"/>Affairs took a new Turn, by the Policy of <hi>Manrice</hi> Elector of <hi>Saxony;</hi> and then the <hi>Reformation</hi> was firmly Eſtabliſhed by the Treaty of <hi>Paſſan.</hi>
+<pb n="153" facs="unknown:002509_0155_0FDB656C0D3EF5F0"/>Affairs took a new Turn, by the Policy of <hi>Manrice</hi> Elector of <hi>Saxony;</hi> and then the <hi>Reformation</hi> was firmly Eſtabliſhed by the Treaty of <hi>Paſſan.</hi>
                </p>
                <p>Juſt ſo We are to conſider the Fate of the <hi>Church of Rome,</hi> that it has received its Stunning Blow, when it loſt that <hi>Moſt Chriſtian King,</hi> as they might well call <hi>Lewis</hi> the XIV. whoſe chief Ambition was to Extirpate <hi>Hereſie,</hi> in which Attempt he ventured his Kingdom, at the Per<g ref="char:EOLhyphen"/>ſwaſion of the <hi>Jeſuits,</hi> who <hi>flattered</hi> him with a better Crown in <hi>Heaven,</hi> for his Service done to the <hi>Church on Earth.</hi>
                </p>
                <p>We are yet to expect the Fall of the <hi>Court of Rome,</hi> by its being totally Deſerted and Neg<g ref="char:EOLhyphen"/>lected by the Princes who ſtill depend on it. And when that is over, the Orders of <hi>Monks</hi> and <hi>Fryers,</hi> and particularly the <hi>Jeſuits,</hi> are very likely to take ſeveral years more before they are wholly ſtript and rooted out of the Kingdoms and Countries, where they now enjoy ſo large Poſſeſſions, and have ſo much Sway with the Ignorant People, and then every thing that is to be done, during the <hi>End,</hi> will be prepared
-<pb n="154" facs="tcp:002509_0156_0FDB656F4CE5F0E0"/>for the Period when,<note place="margin">Dan xii. 12.</note> 
+<pb n="154" facs="unknown:002509_0156_0FDB656F4CE5F0E0"/>for the Period when,<note place="margin">Dan xii. 12.</note> 
                   <hi>Bleſſed is he that waiteth and cometh to the Thouſand Three Hundred and Thirty Five Days:</hi> which agrees perfectly with St. <hi>John</hi>'s Declaration,</p>
                <p>
                   <q>Bleſſed and Holy is he that hath Part in the firſt Reſurrection,<note place="margin">Rev xx. 6.</note> on ſuch the ſecond Death hath no Power, but they ſhall be Prieſts of God and of Chriſt, and ſhall Reign with him a Thouſand Years.</q>
@@ -2961,7 +2962,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                </p>
                <p>And St. <hi>John</hi> ſays,<note place="margin">Rev. xx. 4.</note> 
                   <q>And I ſaw Thrones, and they ſate upon them, and Judgment was given unto them, and I ſaw the Souls of them that were Beheaded for the Witneſs of <hi>Jeſus,</hi> and for the <hi>Word of God,</hi> and which had <hi>not Worshipped</hi> the <hi>Beaſt,</hi> neither his <hi>Image,</hi> neither had received his <hi>Mark</hi> upon their <hi>Fore-heads,</hi>
-                     <pb n="155" facs="tcp:002509_0157_0FDB6570A4A4D430"/>or in their <hi>Hands;</hi> and they Lived and Reigned with Chriſt a <hi>Thouſand Years.</hi>
+                     <pb n="155" facs="unknown:002509_0157_0FDB6570A4A4D430"/>or in their <hi>Hands;</hi> and they Lived and Reigned with Chriſt a <hi>Thouſand Years.</hi>
                   </q>
                </p>
                <p>
@@ -2983,7 +2984,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                   <q>For this we ſay unto you by the Word of the Lord, that we which are alive,<note place="margin">15.</note> and remain unto the coming of the Lord, ſhall not pre<g ref="char:EOLhyphen"/>vent them which are aſleep;</q>
                </p>
                <p>
-                  <pb n="156" facs="tcp:002509_0158_0FDC1BDA22447218"/>
+                  <pb n="156" facs="unknown:002509_0158_0FDC1BDA22447218"/>
                   <q>For the Lord himſelf ſhall deſcend from Heaven,<note place="margin">1. Theſſ. IV. 16.</note> with a Shout, with the Voice of the Arch-Angel, and with the Trump of God, and the Dead in Chriſt ſhall riſe firſt.</q>
                </p>
                <p>This <hi>Trump of God</hi> is the ſame with <hi>The Voice of the Seventh Angel,</hi>
@@ -2999,7 +3000,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                </p>
                <p>
                   <q>And the Nations were Angry, and Thy Wrath is come,<note place="margin">18.</note> and the Time of the Dead,
-<pb n="157" facs="tcp:002509_0159_0FDC1BD3EA52F9E8"/>that they ſhould be Judged, and that Thou ſhouldſt give Reward unto thy Servants the Prophets, and to the Saints, and them that fear Thy Name, ſmall and great, and ſhouldſt Deſtroy them which Deſtroy the Earth.</q>
+<pb n="157" facs="unknown:002509_0159_0FDC1BD3EA52F9E8"/>that they ſhould be Judged, and that Thou ſhouldſt give Reward unto thy Servants the Prophets, and to the Saints, and them that fear Thy Name, ſmall and great, and ſhouldſt Deſtroy them which Deſtroy the Earth.</q>
                </p>
                <p>Here is an abſtract of many of Gods paſt Judgments, and a View of what was yet to come, and there the <hi>Prophets</hi> are mentioned as the firſt that are to be <hi>Rewarded,</hi>
                   <note place="margin">Rev. xx. 4.</note> and then the <hi>Saints,</hi> and laſt of all, the <hi>Small and Great,</hi>
@@ -3011,7 +3012,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                <p>
                   <q>Then cometh the <hi>End,</hi>
                      <note place="margin">24.</note> when he ſhall have delivered up the Kighdom to God, even the
-<pb n="158" facs="tcp:002509_0160_0FDB6573F27ED588"/>Father, when he ſhall have put down all Rule, and all Authority and Power.</q>
+<pb n="158" facs="unknown:002509_0160_0FDB6573F27ED588"/>Father, when he ſhall have put down all Rule, and all Authority and Power.</q>
                </p>
                <p>"For he muſt Reign till he hath put all "Enemies under his Feet.<note place="margin">1. Cor. XXV. 25</note>
                </p>
@@ -3027,7 +3028,7 @@ By which we ſee the compleat Agreement of thoſe two different Accounts, which 
                         <desc>•••</desc>
                      </gap>s</hi> of 1260.1290. and 1335. Days, I will only Obſerve, That in thoſe Places where they might be expected Prin<g ref="char:EOLhyphen"/>cipally to be mentioned, they are ſufficiently diſtinguiſhed.</p>
                <p>
-                  <pb n="159" facs="tcp:002509_0161_0FDB6575D22C4C48"/>
+                  <pb n="159" facs="unknown:002509_0161_0FDB6575D22C4C48"/>
 The <hi>Firſt Period</hi> is deſcribed in the XII.<note place="margin">Dan xii. 7.</note> Chap<g ref="char:EOLhyphen"/>ter of <hi>Daniel,</hi> by <hi>Scattering the Holy People for a Time, Times and a Half,</hi> in the VII.<note place="margin">VII. 25.</note> of <hi>Daniel</hi> in the Viſion of the <hi>Four Beaſts,</hi> by <hi>thinking to Change Times and Laws,</hi> which <hi>shall be given into his Hand, for a Time,</hi>
                   <note place="margin">Rev. xi. 2. XIII. 5.</note> 
                   <hi>Times and Dividing of Time;</hi> and by St. <hi>John,</hi> by <hi>Treading down the Holy City Forty Two Months,</hi> and by <hi>the Mouth ſpeaking Blaſphemies, having Power given him to con<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -3045,7 +3046,7 @@ The <hi>Firſt Period</hi> is deſcribed in the XII.<note place="margin">Dan xii
                   <hi>B<gap reason="illegible" resp="#PDCC" extent="4 letters">
                         <desc>••••</desc>
                      </gap>n is fallen, is fallen,</hi> which <hi>Babylon</hi> was only ſaid to
-<pb n="160" facs="tcp:002509_0162_0FDB65781B528990"/>have <hi>Come in Remembrance before God, to give unto her the Cup of the Wine of the Fierceneſs of his Wrath, at the Time of the Earth-quake.</hi> And that <hi>Earth-quake,</hi> in another place, follows the <hi>Witneſſes ſtanding on their feet,</hi>
+<pb n="160" facs="unknown:002509_0162_0FDB65781B528990"/>have <hi>Come in Remembrance before God, to give unto her the Cup of the Wine of the Fierceneſs of his Wrath, at the Time of the Earth-quake.</hi> And that <hi>Earth-quake,</hi> in another place, follows the <hi>Witneſſes ſtanding on their feet,</hi>
                   <note place="margin">Rev. XI. 3, 7, 13.</note> 
                   <hi>and great Fear falling on them which ſaw them,</hi> after they had <hi>finished their Teſtimony,</hi> which was to be performed in <hi>Sackcloth, during the One Thouſand two hun<g ref="char:EOLhyphen"/>dred and ſixty Years.</hi> From all which it appears, that the 1260 Years were finiſhed ſome Time before <hi>Babylon</hi>'s fall.</p>
                <p>And again, when <hi>Babylon</hi> is deſcribed as <hi>Fallen,</hi> in another Chapter, it is ſaid,</p>
@@ -3060,7 +3061,7 @@ The <hi>Firſt Period</hi> is deſcribed in the XII.<note place="margin">Dan xii
                      </gap>ſs with a Cup fall of Abo<g ref="char:EOLhyphen"/>minations;</hi>
                   <note place="margin">XVII. 10.</note> which anſwers to the <hi>Abomination that maketh deſolate,</hi> in the XII. Chapter of <hi>Daniel,</hi> at the 11th Verſe.</p>
                <p>The <hi>Third</hi> and <hi>Laſt Period</hi> is deſcribed in the
-<pb n="161" facs="tcp:002509_0163_0FDB657B0EE32070"/>XII. Chapter of <hi>Daniel,</hi>
+<pb n="161" facs="unknown:002509_0163_0FDB657B0EE32070"/>XII. Chapter of <hi>Daniel,</hi>
                   <note place="margin">Dan. xii. 12.</note> by <hi>Bleſſed is he that waiteth and cometh to the One Thouſand three Hundred and Thirty Five Days. In</hi> the VII Chapter,<note place="margin">VII. 26.</note> by <hi>Conſuming and Deſtroying unto the End.</hi>
                </p>
                <p>
@@ -3074,7 +3075,7 @@ The <hi>Firſt Period</hi> is deſcribed in the XII.<note place="margin">Dan xii
                </p>
                <p>
                   <q>And another Angel came out of the Temple,<note place="margin">15.</note> crying with a loud Voice to him that ſate on
-<pb n="162" facs="tcp:002509_0164_0FDB657BD1F3B7E8"/>the Cl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="162" facs="unknown:002509_0164_0FDB657BD1F3B7E8"/>the Cl<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>d, Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -3096,7 +3097,7 @@ The <hi>Firſt Period</hi> is deſcribed in the XII.<note place="margin">Dan xii
                   <q>And the Wine-preſs was trodden without the City,<note place="margin">20.</note> and Blood came out of the Wine<g ref="char:EOLhyphen"/>preſs even unto the Horſe Bridles, by the ſpace of a Thouſand and Six Hundred Furlongs.</q>
                </p>
                <p>
-                  <pb n="163" facs="tcp:002509_0165_0FDB6580064DB948"/>
+                  <pb n="163" facs="unknown:002509_0165_0FDB6580064DB948"/>
 Here is the Coming of Chriſt to his <hi>Harveſt,</hi> with his <hi>Crown of Gold,</hi> to ſet up his Reign, which was fixt by the compleat Deſtruction of the Anti-Chriſtian Power.</p>
                <p>The like Deſcription is at the End of the Viſion of the <hi>Seven Vials,</hi> which are exactly parallel both as to their Matter, and their Time, to that of the <hi>Trumpets,</hi> both in their Introduc<g ref="char:EOLhyphen"/>tion, their Continuance and their Cloſe.</p>
                <p>After that, in this Viſion of the <hi>Vials,</hi> the Angel had cryed mightily, <hi>Babylon is fallen,</hi>
@@ -3115,7 +3116,7 @@ Here is the Coming of Chriſt to his <hi>Harveſt,</hi> with his <hi>Crown of Go
                   </q>
                </p>
                <p>
-                  <pb n="164" facs="tcp:002509_0166_0FDB658290CD5888"/>
+                  <pb n="164" facs="unknown:002509_0166_0FDB658290CD5888"/>
                   <q>And the Armies which were in Heaven fol<g ref="char:EOLhyphen"/>lowed him upon White Horſes,<note place="margin">Rev. xix. 14.</note> Cloathed in Fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>, Linnen, White and Clean.</q>
@@ -3139,7 +3140,7 @@ Here is the Coming of Chriſt to his <hi>Harveſt,</hi> with his <hi>Crown of Go
                <p>
                   <q>And I ſaw the <hi>Beaſt</hi> and the <hi>Kings of the Earth,</hi>
                      <note place="margin">19.</note> and their <hi>Armies</hi> gathered together to
-<pb n="165" facs="tcp:002509_0167_0FDB65842DE4CF50"/>make War againſt <hi>Him</hi> that ſate on the Horſe, and againſt his Army.</q>
+<pb n="165" facs="unknown:002509_0167_0FDB65842DE4CF50"/>make War againſt <hi>Him</hi> that ſate on the Horſe, and againſt his Army.</q>
                </p>
                <p>
                   <q>And the <hi>Beaſt</hi> was taken,<note place="margin">Rev. xix. 20.</note> and with him the <hi>falſe Prophet</hi> that wrought Miracles before him, with which he <hi>Deceived</hi> them that had re<g ref="char:EOLhyphen"/>ceived the <hi>Mark of the Beaſt,</hi> and them that <hi>Wor<g ref="char:EOLhyphen"/>shipped his Image;</hi> theſe both were caſt alive into a I ake of Fire Burning with Brimſtone.</q>
@@ -3158,7 +3159,7 @@ Here is the Coming of Chriſt to his <hi>Harveſt,</hi> with his <hi>Crown of Go
                </p>
                <p>
                   <q>And caſt him into the Bottomleſs Pit,<note place="margin">3.</note> and ſhut him up, and ſet a Seal upon him, that he ſhould <hi>deceive the Nations no more,</hi> till the
-<pb n="166" facs="tcp:002509_0168_0FDC1BDF2CFB6180"/>
+<pb n="166" facs="unknown:002509_0168_0FDC1BDF2CFB6180"/>
                      <hi>Thouſand Years</hi> ſhould be fullfilled, and after that he muſt be looſed a little Seaſon.</q>
                </p>
                <p>
@@ -3173,7 +3174,7 @@ Here is the Coming of Chriſt to his <hi>Harveſt,</hi> with his <hi>Crown of Go
                   <note place="margin">Luke XXI. 28.</note> 
                   <hi>then look
 <pb n="167"
-                         facs="tcp:002509_0169_0FDC1BE1944A7D10"
+                         facs="unknown:002509_0169_0FDC1BE1944A7D10"
                          rendition="simple:additions"/>up, and lift up your Heads, for your Redemption draweth nigh.</hi> If therefore I have made it Probable, that the <hi>Firſt Period</hi> is <hi>come to paſs,</hi>
                   <note place="margin">Luke xxi. 31. Matth. xxiv. 33. Mark XIII. 29.</note> we may be juſtly intituled to Hope that the Reſt which end in <hi>The Kingdom of God,</hi> are <hi>nigh at Hand, even at the Doors.</hi>
                </p>
